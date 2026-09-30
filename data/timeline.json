@@ -1,0 +1,111 @@
+{
+ "lede": "From Vítkov to the Compacts. Stations with a source link lead into the texts; the others follow modern accounts and wait for their module.",
+ "stations": [
+  {
+   "d": "14 July 1420",
+   "side": "brotherhoods",
+   "titel": "Vítkov",
+   "text": "Žižka's men hold the hill above Prague against Sigismund's crusade; the crusade withdraws. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "1 November 1420",
+   "side": "prague",
+   "titel": "Vyšehrad",
+   "text": "The Praguers and the Taborites defeat Sigismund's relief army below the royal fortress, which surrenders. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "June 1421",
+   "side": "prague",
+   "titel": "The diet of Čáslav",
+   "text": "The estates of Bohemia and Moravia adopt the Four Articles, declare Sigismund unfit to rule and set up a regency of twenty. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "1421",
+   "side": "brotherhoods",
+   "titel": "Žižka blinded at Rabí",
+   "text": "Already blind in one eye, Žižka loses the other to an arrow at the siege of Rabí castle, and goes on commanding. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "January 1422",
+   "side": "brotherhoods",
+   "titel": "Kutná Hora and Německý Brod",
+   "text": "Surrounded at Kutná Hora, Žižka breaks out with his wagons and routs Sigismund's army at Německý Brod. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "1423",
+   "side": "brotherhoods",
+   "titel": "Žižka leaves Tábor",
+   "text": "Žižka goes to eastern Bohemia and joins the Orebite brotherhood, which becomes his own. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "September 1423",
+   "side": "brotherhoods",
+   "titel": "The military ordinance",
+   "text": "Žižka, some forty captains and lords and the councils of four towns issue their ordinance: orderly obedience, the booty shared, no person excepted.",
+   "cite": "#/text/zizka/preamble/2",
+   "citeLabel": "Ordinance Preamble [2]"
+  },
+  {
+   "d": "7 June 1424",
+   "side": "brotherhoods",
+   "titel": "Malešov",
+   "text": "Žižka defeats the army of Prague and its allied lords: Hussites against Hussites. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "11 October 1424",
+   "side": "brotherhoods",
+   "titel": "Žižka dies",
+   "text": "Žižka dies of illness near Přibyslav. His brotherhood calls itself the Orphans. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "16 June 1426",
+   "side": "crusade",
+   "titel": "Ústí nad Labem",
+   "text": "The field armies destroy a Saxon and Meissen army before Ústí. In the same month the electors, meeting at Nuremberg, draw up war orders against the Hussites. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "August 1427",
+   "side": "crusade",
+   "titel": "Tachov",
+   "text": "The third crusade flees from Tachov before battle is joined. Prokop the Bald now leads the Taborite field army. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "1428–1430",
+   "side": "brotherhoods",
+   "titel": "The 'beautiful rides'",
+   "text": "The field armies raid Austria, Hungary, Silesia, Saxony and Franconia. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "14 August 1431",
+   "side": "crusade",
+   "titel": "Domažlice",
+   "text": "The fifth crusade, with Cardinal Cesarini, breaks and flees at the sound of the approaching wagons. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "1433",
+   "side": "church",
+   "titel": "The Bohemians at Basel",
+   "text": "A Hussite embassy with Prokop disputes the Four Articles before the Council of Basel. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "21 September 1433",
+   "side": "crusade",
+   "titel": "Hiltersried",
+   "text": "A Taborite foraging army is destroyed by the forces of the Upper Palatinate: a rare defeat in the field. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "30 May 1434",
+   "side": "prague",
+   "titel": "Lipany",
+   "text": "The lords' league, Utraquist and Catholic, destroys the field armies. Prokop the Bald falls. The foot had left their wagons against the ordinance's order.",
+   "cite": "#/text/zizka/articles/5",
+   "citeLabel": "Ordinance [5]"
+  },
+  {
+   "d": "5 July 1436",
+   "side": "church",
+   "titel": "The Compacts at Jihlava",
+   "text": "The Compacts of Basel are proclaimed; Sigismund is received as king of Bohemia. (Modern accounts; module planned.)"
+  }
+ ]
+}

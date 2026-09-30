@@ -1,0 +1,71 @@
+{
+ "shipped": [
+  {
+   "id": "zizka",
+   "datei": "zizka",
+   "side": "brotherhoods",
+   "zk": "Ordinance",
+   "kurz": "Žižka's military ordinance (1423)",
+   "warum": "The law of Žižka's brotherhood for its armies, September 1423: the preamble with some forty names, the twelve articles, and the closing. Czech as printed by Toman (1898), English by Lützow (1914), both read against the page images."
+  }
+ ],
+ "planned": [
+  {
+   "id": "orders",
+   "side": "crusade",
+   "kurz": "The Empire's war orders (1426–1431)",
+   "warum": "The crusading plans of the electors and the imperial diets, which forbid dice and common women in the camp and prescribe wagons: the enemy copying the ordinance.",
+   "quelle": "Toman, Husitské válečnictví (1898), book V, nos. II ff., pp. 394 ff. (German)."
+  },
+  {
+   "id": "brezova",
+   "side": "prague",
+   "kurz": "Laurence of Březová, the Prague chronicle (1420–1421)",
+   "warum": "From Vítkov to Žižka's blinding at Rabí: the Four Articles in Latin, Tábor, the Adamites, the diet of Čáslav, from the chronicler of the Hussite university.",
+   "quelle": "Fontes rerum Bohemicarum V (Prague 1893), pp. 327–534 (Latin)."
+  },
+  {
+   "id": "bull",
+   "side": "church",
+   "kurz": "The crusade bull of 1421",
+   "warum": "Martin V renews the crusade against the Bohemians and sends Cardinal Branda to preach it.",
+   "quelle": "F. Palacký, Urkundliche Beiträge zur Geschichte des Hussitenkrieges I (Prague 1873), about pp. 70–75 (Latin)."
+  },
+  {
+   "id": "manifestos",
+   "side": "brotherhoods",
+   "kurz": "Hussite manifestos and Žižka's letters",
+   "warum": "The brotherhoods' own voice outside the field: calls to arms, letters to the towns, justifications of the war.",
+   "quelle": "Archiv český III (Prague 1844), pp. 205–268 (Czech)."
+  },
+  {
+   "id": "domazlice",
+   "side": "prague",
+   "kurz": "The song of the victory at Domažlice (1431)",
+   "warum": "The fifth crusade fled before the battle; a Latin victory song tells it from the Hussite side.",
+   "quelle": "Fontes rerum Bohemicarum V (1893), pp. 543–564 (Latin)."
+  },
+  {
+   "id": "andreas",
+   "side": "crusade",
+   "kurz": "Andreas of Regensburg, Chronicle of the Hussites",
+   "warum": "The war seen from Bavaria, by a canon who collected the documents of the crusades.",
+   "quelle": "G. Leidinger (ed.), Andreas von Regensburg, Sämtliche Werke (Munich 1903), about pp. 343–500 (Latin and German)."
+  },
+  {
+   "id": "bartosek",
+   "side": "prague",
+   "kurz": "Bartošek of Drahonice, chronicle (1419–1443)",
+   "warum": "A Hussite knight's chronicle, with the account of Lipany.",
+   "quelle": "Fontes rerum Bohemicarum V (1893), pp. 589–628 (Latin)."
+  },
+  {
+   "id": "compacts",
+   "side": "church",
+   "kurz": "The Compacts of Basel (1436)",
+   "warum": "The peace: the chalice granted to the Bohemians who wished it, on conditions, proclaimed at Jihlava on 5 July 1436.",
+   "quelle": "Archiv český III (1844), about pp. 397–449 (Latin and Czech)."
+  }
+ ],
+ "missing": []
+}

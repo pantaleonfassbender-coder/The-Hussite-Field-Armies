@@ -1,0 +1,166 @@
+{
+ "id": "zizka",
+ "titel": "The military ordinance of Jan Žižka",
+ "autor": "Jan Žižka of the Chalice and the captains, lords and towns of his brotherhood",
+ "jahr": "1423",
+ "sprache": "en",
+ "orig_sprache": "cs",
+ "pg_label": "Toman p.",
+ "quelle": "Czech: Hugo Toman, Husitské válečnictví za doby Žižkovy a Prokopovy (Prague: Královská česká společnost nauk, 1898), book V, no. I, pp. 392–394 (internet archive: husitske_valecnictvi-toman). English: Count Lützow [Francis, Count Lützow], The Hussite Wars (London: Dent; New York: Dutton, 1914), Appendix II, pp. 366–371 (internet archive: hussitewars00ltzo). Both are in the public domain; both were read against the page images.",
+ "hinweis": "Toman prints the ordinance from the manifesto of Žižka's brotherhood, issued in the first half of September 1423 (his pp. 15–16, with earlier printings named there). His Czech is kept as he printed it, including his spellings without length marks in some endings (nevymiňujice, vymlúvajice, prosime); only the division into numbered units is the site's. Lützow's English is kept with his square brackets; two slips of his printing are corrected and named in the notes. Toman ends with article 12; Lützow's translation continues with the closing of the manifesto, which is given here in English only, until its Czech has been read against a page. Notes that compare the Czech with Lützow's English are the site's.",
+ "sections": [
+  {
+   "id": "preamble",
+   "titel": "Who orders, and why",
+   "zk": "Ordinance Preamble",
+   "blurb": "Žižka and some forty captains, lords, squires and town councils set their names to the ordinance, and give its reason: disobedience has cost them men, goods and honour before the enemy.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Who orders",
+     "pg": "392",
+     "orig": "My Jan bratr Žižka z Kalichu, Jan Roháč z Dubé, Aleš z Ryzmburka a z Vřeštova, Jan z Potštaina na Žampachu, Boček z Kunstatu a od jinud z Jevišovic, Bartoš a Bernart bratří z Valečova, Bartoš, Jan, Martin bratří z Vysoké; my purkmistři a konšelové i všecky obce města Hradce nad Labem a Čáslavi; my Beneš z Mokrovús, Jaroslav z Kalichu, Václav Horyna z Honbic, Křišťan z Žernosek, Frencl z Litožnic, Jíra z Řečice, Jan z Studené; a my purkmistr a konšelé i všecka obec města Jaroměře; my Zdislav Zeman, Vavřinec Polák z Paňova, Blažek z Kralup, Jakub z Březové, Petřík Kralovec z Příbramě, Jan z Domažlic, Jan z Tehova, Martin z Borovnice, Havel Orebský; a my purkmistr a konšelé i všecka obec města Dvora; a my Chústník z Košova, Ondřej z Studené, Šárka z Slavného, Kříž setník, Beneš setník, Mikát Brada Odraný, Aleš z Hostačova, Polévka z Hoštky, Mikuláš Orebský, Veta z Chlumčan, Litobor z Trubče, Linhart z Sleze, Beneš z Horošovic, Jan Baštín, Mařík Velek Šeňk, Jíra Roh, Mikuláš Brada, hejtmané, páni, rytíři, panoše, purkmistři, konšelé i všecky obce panské, rytířské, panošské, městské, žádných nevymiňujice ani vymlúvajice;",
+     "en": "We, brother John Žižka of the Chalice, John Roháč of Duba, Aleš of Riesenburg and Vřestov, John Potštain of Žampach, Boček of Kunštat and Jevišovic, Bartholomew and Bernard, brothers of Valečov, Bartholomew, John and Martin, brothers of Vysoká, we, the burgomasters, aldermen, and citizens of the towns of Králové Hradec and Časlav, we, Benedict of Mokrovous, Jaroslav of the Chalice, Venceslas Horina of Honbic, Christian of Žernosek, Francis of Litožnic, George of Řečic, John of Studená, we, burgomasters, aldermen, and citizens of the town of Jaroměř; we, Zdislav Zeman, Lawrence Polák of Paňov, Blasius of Kralupy, Jacob of Březová, Peter Kralovec of Přibram, John of Domažlice, John of Techov, Martin of Borovnice, Gallus Orebský, and we, burgomaster, aldermen and all the citizens of the town of Dvůr; and we, Chůstník of Košov, Andrew of Studená, Šarka of Slavné, Kříž the captain, Beneš the captain, Michael Breda Odraný, Aleš of Hostačov, Polévka of Hoštka, Michael Orebský, Veta of Chlumčany, Litobor of Trubeč, Linhart of Sleza, Beneš of Hořovic, John Baštin, Mařik Velek Šeňk, George Roh, Nicholas Brada, the captains, lords, knights, squires and citizens without exception, and no one being excluded:",
+     "note": "Lords, knights, squires, captains, and the councils of four towns (Hradec Králové, Čáslav, Jaroměř and Dvůr Králové) set their names beside Žižka's. Jaroslav of the Chalice is Žižka's brother; 'Orebský' marks a man of the Orebite brotherhood of eastern Bohemia, named after the hill Oreb, which Žižka joined when he left Tábor in 1423. Lützow names 'Michael Orebský' where Toman prints 'Mikuláš Orebský', and 'Beneš of Hořovic' where Toman prints 'z Horošovic'. A comma is supplied in the English after 'Valečov'; Lützow's diacritics are printed as he printed them."
+    },
+    {
+     "n": 2,
+     "titel": "Orderly obedience",
+     "pg": "392",
+     "orig": "my všichni svrchupsani ke všem i všech prosime, řádně napomínajice, přikazujeme, i chceme tomu, aby řádné poslušenství bylo; nebo skrze neposlušenství a neřádné výtržky veliké škody jsme brávali na bratřích i na statcích, a hanbu často od nepřátel božích a našich trpěli. Již s pomocí boží a vaší i všech věrných mínice se toho vystříci těmito obyčeji:",
+     "en": "We all, whose names are written above, rightly request, order and demand of you that there should be orderly obedience; for through disobedience and riotous disturbances we have suffered great losses, both as regards our brethren and our estates, and we have been shamed before the enemies of God. Now, however, with the help of God and of all the faithful, we hope to avoid this, and therefore lay down these regulations:",
+     "note": "'Aby řádné poslušenství bylo', that there be orderly obedience: the demand from which the companion game takes its title. The reason given is experience, not doctrine: losses in men and goods through disobedience and 'neřádné výtržky', disorderly breaking out of the ranks. The enemies are 'of God and ours'; Lützow leaves out 'and ours'."
+    }
+   ]
+  },
+  {
+   "id": "articles",
+   "titel": "The twelve articles",
+   "zk": "Ordinance",
+   "blurb": "March, camp, fire, prayer, the order of the troops, the captains' liability, the booty, peace within the army, desertion, the sinners who will not be suffered, and the punishments. Every article ends in the same refrain: no person excepted, of whatever estate.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Article 1: no one ahead of the army",
+     "pg": "392–393",
+     "orig": "Nejprvé, když bychom chtěli vytrhnúti z města kterého, neboli kde se hnúti chtěli z místa, kdež bychom polem leželi, aby nižádný napřed nejezdil k městu, ani šel, aniž se vezl, sobě místa aneb hospody zastávat, ani se kde polem klad bez dopuštění a rozkázání města jmenovaného od jmenovaných starších hejtmanův, kteříž na to a k tomu vydáni a jmenováni budú. A jest-li že by se kdo jinde položil a vytrhl neboli postavil bez rozkázání těch starších, chtěli bychom pomstiti a popraviti nad ním i nad takovým, i k jeho statku i k jeho hrdlu, jakožto k neposlušným, buď kdož buď, kteréhožkoli řádu, žádných osob nevynímajice.",
+     "en": "When we march out of some place and move to new quarters, no one shall ride or walk or drive in advance of the army to secure quarters or lodgings for himself; neither shall any one encamp without the permission or order of the older captains or before the said older captains appointed for this purpose have assigned him a place; and should any man encamp or march or place himself anywhere without order from these elders we wish to have revenge on him and punish him in goods and person, whoever he be, and of whatever rank, without exception in favour of any man.",
+     "note": "The 'starší hejtmané', the elder captains, are the ordinance's recurring authority: appointed for the purpose, they assign every place. The penalty formula that runs through the text, 'k jeho statku i k jeho hrdlu', in goods and in neck, appears here first."
+    },
+    {
+     "n": 2,
+     "titel": "Article 2: breaking camp together",
+     "pg": "393",
+     "orig": "A kdyžby se chtěli hnúti z toho místa, kdežby polem leželi, s dopuštěním a rozkázáním těch starších jmenovaných, aby vytrhli na pole, kdežby místo podobné a hodné bylo k tomu, a tu sebe zčekali, aby se všecko vojsko hnulo z stanoviště.",
+     "en": "When they move on from the place where they have encamped with permission and by order of the appointed elders, they shall march to an appropriate spot and wait there till the whole army has moved from its encampment.",
+     "note": "Lützow glosses 'they' as the first detachments of the army."
+    },
+    {
+     "n": 3,
+     "titel": "Article 3: no fires",
+     "pg": "393",
+     "orig": "A žádný aby nezapaloval bud, ani kde jinde pálil, kde bychme táhli nebo leželi, jedno ti, ježto k tomu vydáni a ustanoveni budú, a to pod velikú pokutú, aby toho žádní jiní nečinili.",
+     "en": "No one shall on the march or when we encamp light a fire or burn anything; only those [shall do so] who are ordered to do so and appointed for this purpose, and this under severe penalty that no others may do so afterwards.",
+     "note": "Burning is not forbidden; it is reserved to those appointed to it. The Czech 'bud' is 'budy', huts or buildings: no one is to set fire to houses on his own account."
+    },
+    {
+     "n": 4,
+     "titel": "Article 4: prayer before the march",
+     "pg": "393",
+     "orig": "Potom než by se ihned z místa hnuli, prvé nežby které věci činili a rozkázali, aby se nejprv pánu bohu modlili, kleknúc a padnúc před tělem božím a před tváří boží, když vytržení bude z vojska anebo z města, aby pán buoh všemohúcí ráčil svú pomoc dáti, a tu při svú svatú provésti k své svaté chvále a k rozmnožení toho dobrého a věrným k spasení a ku pomoci.",
+     "en": "Before we leave a town or begin a march or orders are given, all shall first pray to the Lord God, and falling on their knees before the Sacrament shall pray that the Almighty God may deign to grant us His aid, that we may carry on His holy fight to His holy glory, for the increase of all that is good, for the salvation and aid of the faithful.",
+     "note": "'Before the body of God': the host, carried with the army. The war is 'his holy cause', 'při svú svatú', which Lützow renders 'His holy fight'. Lützow's printing doubles 'God' ('the Almighty God God'); the doubling is removed here."
+    },
+    {
+     "n": 5,
+     "titel": "Article 5: each troop under its banner",
+     "pg": "393",
+     "orig": "Pak potom aby lidi šikovali nebo zřídili, každú rotu pod své korúhve, heslo aby bylo povědíno, a potom aby se ihned hnuli a tak táhli, která napřed rota bude šikována ten den pod svými korúhvemi; a jiní aby se v ně nemísili, ani jim překáželi, ani se kam odtrhali; jakož komu kde a jakž které roty nebo korúhve sšikovány budú, aby tak táhli v svém šiku a pohromadě, jedni k druhým se nemísejice, a to opatrně, napřed i nazad i na stranách vojska ostříhajíce i sami sebe, jakož komu kde od starších poručeno bude.",
+     "en": "Then, when the men have formed in order, each troop under its standard, then the watchword shall be given and then all shall proceed on the march in that order that whichever troop is on that day ordered to march on first, shall start first; and others shall not mingle with them nor impede their march; all shall, when they have been placed in a troop and under a standard, march together in that troop in an orderly fashion, no troop mingling with another; all shall march carefully, guarding the van, the rear and the flanks of the army according to the orders they will receive from the elders.",
+     "note": "'Ani se kam odtrhali', nor break away anywhere: the article the field armies broke at Lipany on 30 May 1434, when the foot left the wagons to pursue a feigned retreat of the lords' army, against the more cautious captains (Toman pp. 390–391)."
+    },
+    {
+     "n": 6,
+     "titel": "Article 6: the captains answer with their necks",
+     "pg": "393",
+     "orig": "A jest-li žeby bůh neuchoval, žeby kterú škodu vzeli skrze jich neopatrnosti a zmeškání které, neb těch hejtmanuov, u vojště, neboli na vartách, nebo na poli, neb v strážech, kdež jim poručeno bude a svěřeno od starších a od obcí: žádných osob nevymiňujice, míníť i chtí nad nimi hejtmané i všecky obce k nim toho zříti i jim k hrdlóm popraviti i k statkuom a pomstiti, buď kníže, pán, nebo ktož kolivěk, žádných osob nevymiňujice, ani vymlúvajice.",
+     "en": "And should God ordain that we incur losses through some incautiousness or neglect on the part of the captains, either in the field or at the outposts or at the entrenchments, or at any other post that may have been entrusted to them by the elders or by the community, then [the captains] shall without exception be punished by death and loss of their goods, be he [the guilty person] a prince, a lord or any one else, without excepting or excluding any one.",
+     "note": "The Czech opens 'if God should not preserve us': Lützow's 'should God ordain' softens it. Toman (p. 16) calls the article unheard of in medieval armies: carelessness or mere neglect of a post, by anyone including the captains, is punished like desertion when harm follows. The trust comes 'from the elders and from the communities': the captains answer to both."
+    },
+    {
+     "n": 7,
+     "titel": "Article 7: the booty",
+     "pg": "393–394",
+     "orig": "Ale jestliže by kde pán buoh dal nepřátely přemoci a poraziti, města, tvrze, hradu dobyti, táhnúce polem nebo polem ležíce, kterých kořistí dobýti: aby ten vzatek a ty kořisti sneseny, svedeny, svezeny a na hromadu skladeny byly, kdežby bylo tomu místo ukázáno a jmenováno od starších, buď to mnoho nebo málo; a k tomu aby byli vydáni a voleni starší ze všech obcí, panských, rytířských, městských i robotězuov, aby věrně spósobili, ty věci chudým i bohatým a spravedlivě, jakž na koho sluší, rozdány a rozděleny byly, aby nižádný sám sobě nebral, ani co kdo zachoval. Jest-li pak že by co kto vzal nebo-li zachoval, a to bylo usvědčeno dobrým svědomím: k tomu takovému chtěli by popraviti, k jeho hrdlu i statku, buď kdož buď, žádných osob nevynímajice, jakožto k zloději božímu a obecnému; jakož se jest stalo Achanovi pro čepici dcer královských a pro plášť; neboli jinú smrti, buďto kníže, pán, rytíř, nebo panoše, měštěnín, řemeslník, nebo sedlák, ižádného nevymlúvajice, ani k osobám hledíce a zříce, s pomocí boží takovú činiti nad nimi pomstu.",
+     "en": "But if the Lord God grants to us to overcome and defeat the enemies, to capture towns, strongholds, or castles, and, either on the march or while encamped, to obtain booty, then shall these spoils and this booty be collected and brought together to a spot appointed and chosen by the elders, be it much or little; and for this purpose elders shall be chosen among all communities, the lords, knights, townsmen, and peasants, who will faithfully see that these things are justly distributed and divided among the rich and the poor as is befitting, so that no one may himself carry anything away or keep it. But if some one carries away anything or keeps it and he is conscientiously convicted of this, then such a man shall be executed, and lose his life and goods, as one who has robbed God and the commonwealth, whoever he may be, without exception in favour of any one; for thus was treated Achan because of the cap and the cloak of the king's daughter, or [such a man] shall die by some other death, be he a prince, noble, knight, squire, citizen, craftsman or peasant, without exception for any man or regard to his person; thus with God's help will we take vengeance on such a man.",
+     "note": "Toman (p. 16) singles this article out: the distributors of booty are to be elected from every estate, the peasants ('robotězi', those who owe labour) included. 'Conscientiously' is Lützow's rendering of 'dobrým svědomím', on good evidence; he glosses it 'justly'. Achan kept a Babylonian mantle and silver and gold from the spoil of Jericho and was stoned (Joshua 7:19–26); the ordinance remembers the mantle as 'the cap of the king's daughters and the cloak'. Toman notes that the manuscripts read 'Achiorovi'."
+    },
+    {
+     "n": 8,
+     "titel": "Article 8: no quarrels",
+     "pg": "394",
+     "orig": "Dále sváruov, křikuov a potrhání aby žádných nebylo u vojště, ani mezi námi.",
+     "en": "There shall be in our armies and amidst ourselves no quarrels, riots, or noisy disputes."
+    },
+    {
+     "n": 9,
+     "titel": "Article 9: violence within the army",
+     "pg": "394",
+     "orig": "Jest-li žeby kto koho bil, ranil, ochromil, nebo zabil, buď nad ním pomstěno podle zákona božího, jako pán Buoh dopustí, žádného nevymiňujice ani k osobám zříce.",
+     "en": "If some man should strike, wound, maim or kill another, he shall be punished according to God's law and as God permits, without exception of any man and regard for any person.",
+     "note": "'Zákon boží', God's law, is the Hussite standard for all law: the Scriptures against custom and canon."
+    },
+    {
+     "n": 10,
+     "titel": "Article 10: desertion",
+     "pg": "394",
+     "orig": "Dále vězte, že kdoby se kolivěk kradl, nebo šel, nebo jel, aneb vezl od nás z vojsky, když bychom polem táhli nebo leželi, bez odpuštění starších jmenovaných svrchu, a znamení jistého nebude míti, buď kníže, pán, rytíř, panoše, měštěnín, řemeslník nebo robotěz, nebo kterýž kolivěk člověk, a byl by popaden, že chtí k jeho hrdlu i statku popraviti, jakožto nad zlodějem nevěrným, jenž se krade od pře boží a věrných bratří z vojsky, kdež vojsko bude neb leží.",
+     "en": "Be it further known to you that, should any one steal away, walk, ride, or drive away from the army while we are on the march or encamped, without the knowledge of the elders who are mentioned above and without having the right watchword, then he, whether he be a prince, or a noble, or knight, or squire, or citizen, or craftsman, or peasant, or of whatever other condition, shall, when arrested, be, as a faithless thief who slinks away from God's battle and the army of the faithful, punished publicly by loss of his life and goods.",
+     "note": "'Znamení jisté' is a sure token, a pass, which Lützow renders 'the right watchword'. 'Publicly' is Lützow's addition. Toman (p. 16) notes that the Prague captain Jan Bzdinka had imposed the same penalty on the Praguers in 1421, citing Laurence of Březová's chronicle (FRB V, p. 514)."
+    },
+    {
+     "n": 11,
+     "titel": "Article 11: whom the army will not suffer",
+     "pg": "394",
+     "orig": "Také nechcem trpěti mezi sebú nevěrných, neposlušných, lhářuov, zlodějuov, kostkářuov, lúpežníkuov, plundréřuov, opilcuov, lajcí, smilníkuov, cizoložníkuov, smilnic a cizoložnic, i všech zjevných hříšníkův a hříšnic: ty všecky z sebe chceme puditi a honiti, nad nimi popravovati s pomocí trojice svaté vedle zákona božího.",
+     "en": "Also will we not suffer among us infidels, disobedient men, liars, thieves, gamblers, robbers, plunderers, drunkards, revilers, lewd men, adulterers, prostitutes, adulteresses, or any other sinners, male or female; all these will we banish and drive away, or execute them with the help of the Holy Trinity and in accordance with God's law.",
+     "note": "'Kostkáři' are dice-players; 'lajci' are those who curse and swear. The list follows the Hussite demand that public sins be punished in every estate, one of the Four Articles of Prague. The imperial war orders of 1426 and 1427, which Toman prints after this text, forbid dice and 'common women' in the crusading army too (Toman pp. 394–395)."
+    },
+    {
+     "n": 12,
+     "titel": "Article 12: the punishments",
+     "pg": "394",
+     "orig": "Mínit také bratr Žižka i jiní páni, hejtmané, rytíři, panoše, měšťané, řemeslníci i robotězi svrchu psaní a jmenovaní, i všecky obce s pomocí boží a obecní ze všech neřáduov trestati i bíti, trestáním honiti, mrskati, bíti i zabíjeti, stínati, věšeti, topiti, páliti i všemi pomstami mstíti, kteréž pomsty na zlé slušejí vedle zákona božího, nižádných osob nevyjímajice ze všech stavuov, mužského i ženského pohlaví.",
+     "en": "Brother Žižka and the other nobles, captains, knights, squires, citizens, craftsmen, and peasants named above, and all the communities will, with the help of God and of the commonwealth, punish all disorders by banishment, by flogging, slaying, decapitating, hanging, whipping, burning, drowning and by all other punishments which are befitting according to God's law, with exceptions of no one, whether of male or female sex.",
+     "note": "Toman's text ends here. Lützow's continues in the same article with the closing of the manifesto, given below under 'The closing'."
+    }
+   ]
+  },
+  {
+   "id": "closing",
+   "titel": "The closing",
+   "zk": "Ordinance Closing",
+   "blurb": "The end of the manifesto: the warriors of God, the appeal to all faithful Bohemians, and the consent of captains, communities and clergy. In Lützow's English only; Toman does not print it.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Warriors of God",
+     "en": "And if we observe and fulfill the salutiferous articles written above the Lord God will be with us with His holy grace and help; for it befits the warriors of God to live in a truly Christian fashion, loving discipline and fearing God, and to place all wishes, desires and hopes in the hand of the Lord God without hesitation, expecting from Him eternal reward.",
+     "note": "Lützow glosses 'the salutiferous articles written above' as the Four Articles of Prague, 'which were published with Žižka's Regulations as a sort of Preface'. The Czech of the closing is not printed by Toman; it is to be added from an earlier printing of the whole manifesto when one has been read against its page."
+    },
+    {
+     "n": 2,
+     "titel": "To all faithful Bohemians",
+     "en": "And we beg you, dear comrades, of all districts, princes, lords, knights, squires, townsmen, craftsmen, peasants, villeins, men of all estates and generally all faithful Bohemians to agree to this good work and be skilful and helpful for this purpose. And we again will keep, fulfil and maintain [our promises] because of our dear Lord God and His holy martyrdom, for the sake of the freedom of the truth of God's law, for the glory of the saints, for the help of those who are faithful to the holy Church, and particularly for those of the Bohemian and Slavic race [\"jazyk\"] and all Christianity, that the faithful may be glorified and all open or secret heretics and miscreants be shamed. Thus may Almighty God deign to grant us and you His aid and lead us to victory against His enemies and ours, and fight for us and with you with His might, and not withdraw from us His holy grace. Amen.",
+     "note": "'Jazyk' means both language and nation; Lützow keeps the Czech word in brackets. The appeal is addressed to every estate, down to the villeins, and to 'all faithful Bohemians', not to a party."
+    },
+    {
+     "n": 3,
+     "titel": "Consent and seal",
+     "en": "May the Lord God be with us and with you wherever you are and wherever it pleases the Holy Trinity (that you should be). And for better knowledge, confirmation, and certainty we who are named above, together with the clergy, have deliberately given our consent to this writing or letter, and we agree to hold, preserve, and defend it with the help of the uncreated and eternally blessed Holy Trinity. Amen. May God grant this.",
+     "note": "'This writing or letter': Lützow glosses it as the regulations of war. The clergy consent with the captains and communities; the brotherhood's priests marched with its armies."
+    }
+   ]
+  }
+ ]
+}
