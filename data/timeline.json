@@ -121,7 +121,9 @@
    "d": "1428–1430",
    "side": "brotherhoods",
    "titel": "The 'beautiful rides'",
-   "text": "The field armies raid Austria, Hungary, Silesia, Saxony and Franconia. (Modern accounts; module planned.)"
+   "text": "The field armies raid Austria, Hungary, Silesia, Saxony and Franconia. In Bavaria fortified towns and castles are left empty before the enemy is seen.",
+   "cite": "#/text/andreas/raids/4",
+   "citeLabel": "Andreas Raids [4]"
   },
   {
    "d": "14 August 1431",
@@ -141,7 +143,9 @@
    "d": "21 September 1433",
    "side": "crusade",
    "titel": "Hiltersried",
-   "text": "A Taborite foraging army is destroyed by the forces of the Upper Palatinate: a rare defeat in the field. (Modern accounts; module planned.)"
+   "text": "A foraging army of 2,000 from the siege of Plzeň is destroyed in the Upper Palatinate by Bavarian knights and peasants; thanksgiving in Regensburg cathedral.",
+   "cite": "#/text/andreas/field/5",
+   "citeLabel": "Andreas Field [5]"
   },
   {
    "d": "30 November 1433",

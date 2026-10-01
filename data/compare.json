@@ -412,6 +412,61 @@
      ]
     }
    ]
+  },
+  {
+   "id": "raids",
+   "titel": "The raids from both sides",
+   "frage": "Burning, plunder and fear, 1428–1433.",
+   "note": "The ordinance reserves fire to those appointed to it and pools every piece of booty. Andreas, on the receiving side, records burning villages, a priest dragged to Domažlice, a monastery's images smashed, and towns abandoned before the enemy was seen; and, in one sentence, a Bavarian army that burned Bohemia and 'spared no one'. The song of Domažlice counts the same kind of booty as God's gift.",
+   "voices": [
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "andreas",
+     "sec": "raids",
+     "n": [
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "domazlice",
+     "sec": "flight",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "feint",
+   "titel": "Turning on the pursuer",
+   "frage": "Arnschwang 1431, Hiltersried 1433, Lipany 1434.",
+   "note": "At Arnschwang a Hussite raiding party turned on its Bavarian pursuers and was beaten. At Hiltersried a foraging army away from its wagons was destroyed by knights and peasants. At Lipany the lords feigned flight and the field armies left their wagons to pursue. Three times the brotherhoods fought outside the order that had made them unbeatable.",
+   "voices": [
+    {
+     "text": "andreas",
+     "sec": "field",
+     "n": [
+      1,
+      5
+     ]
+    },
+    {
+     "text": "bartosek",
+     "sec": "lipany",
+     "n": [
+      4
+     ]
+    }
+   ]
   }
  ]
 }

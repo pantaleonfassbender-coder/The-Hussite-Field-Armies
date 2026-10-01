@@ -1,0 +1,84 @@
+"""Build data/andreas.json: Andreas of Regensburg on the Hussite raids into Bavaria and Austria, 1428-1433.
+
+Latin: G. Leidinger (ed.), Andreas von Regensburg, Saemtliche Werke (Quellen und Eroerterungen zur
+bayerischen und deutschen Geschichte, N.F. 1, Munich 1903), Chronica pontificum et imperatorum
+continuation, pp. 467-483. Internet archive bub_gb_bWsrAQAAIAAJ, leaf = page + 122.
+Read against the page images. English: the site's working translation (CC0).
+"""
+import json
+from pathlib import Path
+
+OUT = Path(__file__).resolve().parent.parent / "data" / "andreas.json"
+
+RAIDS = [
+    dict(n=1, titel="Nittenau, 1428: the parish priest dragged to Domažlice", pg="467",
+         orig="Anno domini 1428. Hussite heretici de Bohemia inter alia mala, que non possunt enarrari, in die SS. Primi et Feliciani Nittenaw in Bavaria exurebant et dominum Johannem plebanum ibidem nudum, kathena ferrea vinctum et ad currum ligatum captivum in Tawst ducentes in vinculis afflictum mori coegerunt.",
+         en="In the year of the Lord 1428 the Hussite heretics from Bohemia, among other evils that cannot be told, burned Nittenau in Bavaria on the day of Saints Primus and Felician [9 June], and took the parish priest there, lord John, naked, bound with an iron chain and tied to a wagon, as a prisoner to Domažlice, and made him die afflicted in his chains.",
+         note="'Tawst' is Domažlice (Taus), as the editor notes. The priest is tied to the wagon: the war wagon as the image of the raid. A small raid of the year before the great 'beautiful rides'."),
+    dict(n=2, titel="Walderbach: the monastery, the organ and the images", pg="467",
+         orig="Eodem tempore pauci ex eisdem hereticis in monasterium Walderbach ordinis S. Bernhardi venerunt, ubi quosdam volneraverunt, quosdam occiderunt, ianuas ruperunt, organum et sanctorum ymagines confregerunt, dominum Fridericum tunc temporis bursarium, postea vero abbatem, per manum et bracchium sagittaverunt.",
+         en="At the same time a few of the same heretics came to the monastery of Walderbach of the order of St Bernard, where they wounded some and killed others, broke the doors, smashed the organ and the images of the saints, and shot lord Frederick, then the bursar and later the abbot, through the hand and arm.",
+         note="Andreas goes on to tell how Peter of Melk, hearing the story at Regensburg, wrote verses on it in chalk on a table. The images broken are what the crusade bull had charged the Hussites with (Bull [1])."),
+    dict(n=3, titel="1429: the Bavarian counter-raid", pg="472",
+         orig="Item eodem anno circa festum S. Leonhardi Wilhelmus dux Bavarie personaliter cum exercitu contra hereticos voluit expedicionem facere, sed prohibitus a milicia exercitum in Bohemiam misit. Qui magna incendia faciens et nemini parcens prospere in Bavariam est reversus.",
+         en="Item, in the same year, around the feast of St Leonard [6 November], Duke William of Bavaria wished to make an expedition against the heretics in person with an army, but, prevented by his knights, he sent the army into Bohemia. It made great fires, spared no one, and returned to Bavaria in good fortune.",
+         note="The raid ran both ways. Andreas records the Bavarian army's burning and killing in Bohemia as a success, 'prospere', in one sentence."),
+    dict(n=4, titel="1430: towns abandoned before the enemy is seen", pg="472",
+         orig="Anno domini 1430. Hussite heretici in Bohemia cum potencia valida crudelitatem suam in katholicos in Misna, Franconia et Bavaria exercebant, tantusque timor fuit Christicolis, ut eciam, priusquam hostes viderentur, civitates munite et castra sine habitatoribus deserte relinquerentur.",
+         en="In the year of the Lord 1430 the Hussite heretics in Bohemia, with a strong force, exercised their cruelty on the catholics in Meissen, Franconia and Bavaria; and so great was the fear among Christians that fortified towns and castles were left deserted, without inhabitants, even before the enemy was seen.",
+         note="The 'beautiful rides' of 1429–1430 in one sentence from the receiving side. The fear did the field armies' work for them, as at Domažlice in 1431 (Domažlice Flight [1])."),
+    dict(n=5, titel="1430: the pope forbids disputing with the Hussites", pg="473",
+         orig="Item eodem anno ante festum penthecostes principes Nürnberge congregantur. Sigismundus rex in Ungaria constitutus expectatur et venturus nunciatur, sed non venit. Ad hanc congregacionem Fridericus marchio Brandeburgensis Hussitis prefixit certam dietam convocavitque katholicos doctores sub hac intencione, ut ibidem cum Hussitis de articulis eorum disputarent, et ob hoc eciam misit ad Martinum papam V. petens, ut ad hoc assentire dignaretur. Qui indigne tulit huiusmodi peticionem mandavitque, ut nequaquam cum prefatis hereticis disputaretur. Sic itaque tunc temporis nichil est factum.",
+         en="Item, in the same year, before the feast of Pentecost [4 June], the princes gathered at Nuremberg. King Sigismund, who was in Hungary, was expected and announced as coming, but did not come. For this assembly Margrave Frederick of Brandenburg fixed a day for the Hussites and called catholic doctors together with this intention, that they should dispute there with the Hussites on their articles; and for this he also sent to Pope Martin V asking him to consent. The pope took the request ill and commanded that there should be no disputing at all with these heretics. And so at that time nothing was done.",
+         note="Three years before the Compacts, the pope forbids the very disputation that Basel would hold in 1433. For the game, an early settlement before the council is not available."),
+]
+
+FIELD = [
+    dict(n=1, titel="Arnschwang, 1431: archers who hit no one", pg="478",
+         orig="Item eodem anno in diebus quatuor temporum post exaltacionem sancte crucis Hussite de Bohemia prope Orenswank in Bavaria Erasmo Satelpogär domino illius castri domi non existente magnum incendium in villis fecerunt. At katholici eos insequentes dum putarent eos velle fugere, illi animose ad pugnandum se obiecerunt. Et factum est divina protegente gracia, ut katholici, dum multo pauciores essent, de ipsis Hussitis gloriosius triumpharent. Hic non est sub silencio transeundum, quod ex parte Hussitarum preter equestres 100 erant sagittarii pedestres, qui omnes tela sua in cassum et in vanum contra katholicos miserunt, quia ab hiis omnibus nullus est lesus preterquam unus.",
+         en="Item, in the same year, in the Ember days after the Exaltation of the Holy Cross [19 September 1431], the Hussites from Bohemia made a great fire in the villages near Arnschwang in Bavaria while Erasmus Satelpogär, lord of that castle, was away from home. But the catholics pursued them, and while they thought the Hussites meant to flee, these turned boldly to fight. And it came about, by the protection of divine grace, that the catholics, though far fewer, triumphed most gloriously over the Hussites. It must not be passed over in silence that on the Hussite side, besides a hundred horse, there were archers on foot, who all shot their arrows in vain against the catholics, for of all of them none was hurt except one.",
+         note="A raiding party, not a field army with its wagons. The same feint as at Lipany, turned the other way: the pursued turn and fight, and here lose. Arnschwang lies near Cham, as the editor notes."),
+    dict(n=2, titel="Austria, October 1431: six hundred taken", pg="478",
+         orig="Item anno domini 1431. in die S. Kalixti quidam Hussite nomine Sokol senior et iunior, dominus de Placz, Gamereth de Serabitcz, dominus de Flesching, dominus Zesinn de Jewspicz et alii quamplures cum 2000 equitibus et pedestribus et circa 100 curros intraverunt terram Austrie circa Pernekch et Sand Mertenperg, et ibi occurrentibus eis dominus Leopoldus de Chrey, Georius de Püchaim, dominus Streyn et aliis vicinis et circa 1000 rusticos et predicto die viriliter triumphaverunt et ceperunt de Hussitis 600, et 1000 perierunt, pauci fugerunt. In hoc signum victorie vexilla vel panerium Hussitarum delatum est Wyenne in cappella curie principum.",
+         en="Item, in the year of the Lord 1431, on the day of St Callixtus [14 October], certain Hussites named Sokol the elder and the younger, the lord of Plavec, Gamereth of Serabitcz, the lord of Flesching, the lord Sezima of Jevišovice and very many others, with 2,000 horse and foot and about 100 wagons, entered the land of Austria near Pernegg and St Martinsberg; and there, the lord Leopold of Kreig, George of Puchheim, the lord Strein and other neighbours, with about 1,000 peasants, came against them, and on that day triumphed manfully, and took 600 of the Hussites prisoner, and 1,000 perished; few escaped. As a sign of this victory the banners or banner of the Hussites were carried to Vienna into the chapel of the princes' court.",
+         note="A passage written on a slip bound into one manuscript and in the text of two others. The Austrian peasants fought for their lords against the brotherhoods. Sezima of Jevišovice was among the field armies' leaders at Lipany three years later (Bartošek Lipany [3]); the identification is by name only. Several names are uncertain in the manuscripts."),
+    dict(n=3, titel="Hiltersried, 21 September 1433: the raid from Plzeň", pg="482",
+         orig="Item eodem anno feria 4. die 16. mensis Septembris Hussite de obsidione opidi Pilsen in Bohemia miserunt partem exercitus in numero 2 milium virorum in Bavariam. Qui a feria 4. predicta usque in feriam 2. sequentis septimane, in qua erat festum S. Mathei ewangeliste, incendiis, spoliis, depecuniacionibus et katholicorum captivitatibus terram crudelissime perturbabant.",
+         en="Item, in the same year, on Wednesday, the 16th of September, the Hussites from the siege of the town of Plzeň in Bohemia sent part of their army, to the number of 2,000 men, into Bavaria. From that Wednesday until the Monday of the following week, in which fell the feast of St Matthew the Evangelist, they harried the land most cruelly with fires, plunder, extortion of money and the capture of catholics.",
+         note="The besieging army before Plzeň was short of food; the raid was foraging. Andreas lists what the brotherhoods' ordinance forbade without order: fire, plunder and private booty (Ordinance [3], [7])."),
+    dict(n=4, titel="Hiltersried: the duke's knights and the peasants", pg="482",
+         orig="Tunc temporis Johannes dux Bavarie filius quondam Ruperti regis Romanorum personaliter in opido Newburg constitutus contra filios perfidie spiritu dei accensus cum filio suo Christoforo cum eisdem hereticis paratus erat inire bellum. Sed prohibitus a milicia cum videret tot mala, confisus in deo, a quo est victoria, equestres paucos, quos habuit, minus, ut dicebatur, ducentis cum plebe rusticana cupida et fervida ad pugnandum contra illos pessimos hereticos misit.",
+         en="At that time Duke John of Bavaria, son of the late Rupert, king of the Romans, being in person in the town of Neunburg, inflamed by the spirit of God against the sons of faithlessness, was ready with his son Christopher to give battle to these heretics. But, prevented by his knights, seeing so many evils, and trusting in God, from whom victory comes, he sent the few horsemen he had, fewer, it was said, than two hundred, with a crowd of peasants eager and burning to fight against those wicked heretics.",
+         note="As with Duke William in 1429 (Andreas Raids [3]), the knights do not let their prince ride. The Bavarian army is horsemen and peasants: the countryside the raid had burned fights back."),
+    dict(n=5, titel="Hiltersried: fourteen hundred dead", pg="482–483",
+         orig="Et factum est donante domino bonorum omnium distributore, ut commisso prelio gloriosissima victoria de hostibus obtineretur occisis de hereticis 1400 viris, ut putatur, vel plus. De katholicis autem, ut estimatur, quasi 10 numero interierunt. Huius prelii capitaneus fuit Heinricus Pflueg, vexillifer autem Wilhelmus Paulstorffär sagitta graviter volneratus. Interfuit huic prelio Johannes Zengär miles septuagenarius, strenuus preliator.",
+         en="And it came about, by the gift of the Lord, the giver of all good things, that when battle was joined a most glorious victory was won over the enemy, with fourteen hundred of the heretics killed, it is thought, or more. Of the catholics, it is reckoned, about ten perished. The captain of this battle was Henry Pflug; the standard-bearer, William Paulsdorfer, was badly wounded by an arrow. John Zenger, a knight of seventy and a vigorous fighter, took part in this battle.",
+         note="Fourteen hundred against ten: the counts are the victors' as at Vyšehrad (Laurence Vyšehrad [6]). The editor dates the battle of Hiltersried, near Waldmünchen, to 21 September 1433. Without its wagon fort, on a raid, a part of the field army was destroyed in the open: a warning eight months before Lipany."),
+    dict(n=6, titel="Thanksgiving in Regensburg, and the Basel legate", pg="483",
+         orig="Dum hec agerentur, ... episcopus Lugdunensis ex parte concilii Basiliensis fuit Ratispone tractabatque de pace inter Ludwicum et Heinricum duces Bavarie. Sed dum rei finem habere non posset, ipse idem archiepiscopus eosdem duos principes ad prefatum concilium Basiliense citavit. Fuit eciam tunc Ratispone Fridericus marchio Brandeburgensis cum filio suo. Venit eciam post predictam victoriam de Hussitis habitam Johannes dux Bavarie supramemoratus cum filio suo Christoforo. Et factum fuit gaudium magnum in civitate, ita ut eciam festive in kathedrali ecclesia graciarum acciones deo de huiusmodi victoria redderentur.",
+         en="While this was happening, ... the bishop of Lyon was at Regensburg on behalf of the Council of Basel, negotiating peace between Dukes Louis and Henry of Bavaria. But when the matter could not be brought to an end, the same archbishop summoned the two princes to the said Council of Basel. Margrave Frederick of Brandenburg was also at Regensburg then with his son. After the victory over the Hussites the said Duke John of Bavaria also came with his son Christopher. And there was great joy in the city, so that thanks were given to God for this victory festively in the cathedral church.",
+         note="The council's legate is in Regensburg making peace among Bavarian dukes, in the same months in which the Basel embassy was negotiating with Prague (Compacts [1]). Andreas leaves a gap for the archbishop's name; the editor identifies him as Amédée de Talaru of Lyon, whose report of Hiltersried also survives."),
+]
+
+doc = {
+    "id": "andreas",
+    "titel": "Andreas of Regensburg: the raids, 1428–1433",
+    "autor": "Andreas of Regensburg, Augustinian canon of St Mang in Stadtamhof",
+    "jahr": "1428–1433",
+    "sprache": "en",
+    "orig_sprache": "la",
+    "pg_label": "Leidinger p.",
+    "quelle": "Andreas von Regensburg, Sämtliche Werke, ed. Georg Leidinger (Quellen und Erörterungen zur bayerischen und deutschen Geschichte, N.F. 1; Munich 1903), continuation of the Chronica pontificum et imperatorum, pp. 467–483 (internet archive: bub_gb_bWsrAQAAIAAJ). English: the site's working translation.",
+    "hinweis": "Andreas of Regensburg (c. 1380–after 1438), canon of St Mang near Regensburg, collected the documents of the Hussite wars and wrote their chronicle from the Bavarian side; the crusade bull of 1421 survives in his collection (Bull). The passages are from the annals of his chronicle of popes and emperors for 1428–1433, which tell the raids into Bavaria and Austria and the battle of Hiltersried. Leidinger's text is kept with his spelling; his variants are named in the notes where they matter; omissions are marked [...]. The ellipsis in the last passage is Andreas's own gap.",
+    "sections": [
+        {"id": "raids", "titel": "The raids, 1428–1430", "zk": "Andreas Raids",
+         "blurb": "A parish priest chained to a wagon, a monastery's organ and images smashed, a Bavarian counter-raid that 'spared no one', towns abandoned before the enemy was seen, and a pope who forbids disputing with the heretics.",
+         "units": RAIDS},
+        {"id": "field", "titel": "Defeats in the field, 1431–1433", "zk": "Andreas Field",
+         "blurb": "Raiding parties beaten at Arnschwang and in Austria, and at Hiltersried in 1433 a foraging army from the siege of Plzeň destroyed by Bavarian knights and peasants: fourteen hundred dead, thanksgiving in Regensburg cathedral.",
+         "units": FIELD},
+    ],
+}
+
+OUT.write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
+print("andreas.json:", sum(len(s["units"]) for s in doc["sections"]), "units")

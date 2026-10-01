@@ -41,6 +41,14 @@
    "warum": "A Latin poem on the fifth crusade, which fled without a battle: Bohemia sings the flight, Cardinal Cesarini reports to the pope, and the pope concedes three of the Four Articles, 'but of the fourth, let them be silent'. Verse from Fontes rerum Bohemicarum V (1893), read against the page images, with a line-for-line translation."
   },
   {
+   "id": "andreas",
+   "datei": "andreas",
+   "side": "crusade",
+   "zk": "Andreas",
+   "kurz": "Andreas of Regensburg: the raids (1428–1433)",
+   "warum": "The raids seen from Bavaria: a priest chained to a wagon, a monastery sacked, towns abandoned in fear, the pope forbidding disputation, and Hiltersried 1433, where a foraging army was destroyed. Latin from Leidinger's edition (1903), read against the page images, with a working translation."
+  },
+  {
    "id": "bartosek",
    "datei": "bartosek",
    "side": "prague",
@@ -64,13 +72,6 @@
    "kurz": "Hussite manifestos and Žižka's letters",
    "warum": "The brotherhoods' own voice outside the field: calls to arms, letters to the towns, justifications of the war.",
    "quelle": "Archiv český III (Prague 1844), pp. 205–268 (Czech)."
-  },
-  {
-   "id": "andreas",
-   "side": "crusade",
-   "kurz": "Andreas of Regensburg, Chronicle of the Hussites",
-   "warum": "The war seen from Bavaria, by a canon who collected the documents of the crusades.",
-   "quelle": "G. Leidinger (ed.), Andreas von Regensburg, Sämtliche Werke (Munich 1903), about pp. 343–500 (Latin and German)."
   }
  ],
  "missing": []
