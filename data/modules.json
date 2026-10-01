@@ -23,6 +23,14 @@
    "zk": "Orders",
    "kurz": "The Empire's war orders (1426–1429)",
    "warum": "The enemy's answer to the ordinance: the electors at Nuremberg (1426), the imperial diet at Frankfurt (1427), the wagon orders of Nuremberg (1428) and Silesia (1429). Obedience, no dice, no common women, the banner, and the Empire's own war wagons. German as printed by Toman (1898), with a working translation."
+  },
+  {
+   "id": "domazlice",
+   "datei": "domazlice",
+   "side": "prague",
+   "zk": "Domažlice",
+   "kurz": "The song of the victory at Domažlice (1431)",
+   "warum": "A Latin poem on the fifth crusade, which fled without a battle: Bohemia sings the flight, Cardinal Cesarini reports to the pope, and the pope concedes three of the Four Articles, 'but of the fourth, let them be silent'. Verse from Fontes rerum Bohemicarum V (1893), read against the page images, with a line-for-line translation."
   }
  ],
  "planned": [
@@ -39,13 +47,6 @@
    "kurz": "Hussite manifestos and Žižka's letters",
    "warum": "The brotherhoods' own voice outside the field: calls to arms, letters to the towns, justifications of the war.",
    "quelle": "Archiv český III (Prague 1844), pp. 205–268 (Czech)."
-  },
-  {
-   "id": "domazlice",
-   "side": "prague",
-   "kurz": "The song of the victory at Domažlice (1431)",
-   "warum": "The fifth crusade fled before the battle; a Latin victory song tells it from the Hussite side.",
-   "quelle": "Fontes rerum Bohemicarum V (1893), pp. 543–564 (Latin)."
   },
   {
    "id": "andreas",

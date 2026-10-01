@@ -1,0 +1,101 @@
+{
+ "id": "domazlice",
+ "titel": "The song of the victory at Domažlice (1431)",
+ "autor": "Attributed to Laurence of Březová",
+ "jahr": "1431",
+ "sprache": "en",
+ "orig_sprache": "la",
+ "pg_label": "FRB V p.",
+ "quelle": "Píseň o vítězství u Domažlic, ed. Jaroslav Goll, in Fontes rerum Bohemicarum V (Prague 1893), pp. 545–563; excerpts from pp. 545–550. Page images: Czech Academy of Sciences, 'Czech medieval sources FONTES' (book 1103). English: the site's working translation, line for line.",
+ "hinweis": "A Latin rhymed poem on the fifth crusade, which broke and fled before the Hussite armies near Domažlice on 14 August 1431 without giving battle. The edition prints it with Laurence of Březová's chronicle as his work. Bohemia speaks first; then the legate, Cardinal Julian Cesarini, reports to Pope Eugene IV, and the pope answers. The opening is lost in the only manuscript. The verse is printed in two columns a page; the excerpts follow the left column, then the right. The Latin keeps the edition's spelling; the editor's corrections of the manuscript are adopted, and the omitted lines are marked [...]. The English follows the Latin line for line and does not rhyme.",
+ "sections": [
+  {
+   "id": "flight",
+   "titel": "Bohemia sings the flight",
+   "zk": "Domažlice Flight",
+   "blurb": "The crusade flees at the noise of the Hussite wagons, three miles off, leaving guns, money and banners; Bohemia mocks the pope's and the king's soldiers and counts the booty as God's gift.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "They flee at the sound of the wagons",
+     "pg": "545",
+     "orig": "Currus linquunt, clenodia,\nvestes, arma, tentoria,\nbombardas et pecunias,\nmachinas, rerum copias,\nplaustra cum comeatibus\nmultis indicibilibus,\nut exuti oneribus\nforent parati cursibus.\nHonoris iam inmemores\ndivites necnon pauperes\nmetu vexilla deserunt\net ut amentes fugiunt\nnondum conspecto agmine,\nhostis obvii specie,\nnam mei tunc ab hostibus\ntribus distabant millibus,\nsolo audito strepitu\nrede, equorum sonitu\ntumultuque horribili\nvociferantis populi,\nclassicorum sonancium,\npopulorum cantancium.",
+     "en": "They leave their wagons, their jewels,\nclothes, arms, tents,\nguns and money,\nengines, stores of goods,\ncarts with provisions\nbeyond all telling,\nso that, stripped of their burdens,\nthey might be ready to run.\nForgetting honour now,\nrich and poor alike\ndesert their banners in fear\nand flee like madmen,\nthe host not yet in sight,\nat the mere look of an enemy coming;\nfor my men were then\nthree miles from the enemy:\nonly the noise was heard\nof wagons, the sound of horses,\nand the horrible tumult\nof a people shouting,\nof trumpets sounding,\nof peoples singing.",
+     "note": "Bohemia speaks: 'mei', my men, are the Hussite army. 'Reda' is a wagon. The beginning of the poem is lost in the only manuscript; the edition prints rows of dots and gives four opening lines from Dobner's older printing: 'Let Bohemia now tell in these new songs the great wonders done by God's grace.' The poem says only that the crusaders heard 'peoples singing'; the later tradition that names the song as 'Ktož jsú boží bojovníci' is not in it."
+    },
+    {
+     "n": 2,
+     "titel": "'Not men, but women'",
+     "pg": "546",
+     "orig": "O formido militaris!\nA transactis nusquam talis\nest audita iam seculis\ntocius orbis populis.\nSuntne ast isti milites,\npape, regis sathalites?\nNon sunt viri, sed femine,\ncapre fugaces misere,\nymo paventes lepores\naut exturbate volucres.\nAc re mei sunt ditati,\ntuo dono munerati\narmis et auro, curribus,\nmachinis, rebus pluribus.\nFodientes nam foveam\niam inciderunt in eam\nhostes mei sevissimi\nmanu censoris maximi.",
+     "en": "O soldierly fear!\nNever in ages past\nhas the like been heard\namong the peoples of the whole world.\nAre these, then, soldiers,\nthe pope's and the king's men-at-arms?\nThey are not men, but women,\nwretched skittish goats,\nor rather trembling hares\nor startled birds.\nAnd my men were made rich in goods,\nrewarded by your gift\nwith arms and gold, wagons,\nengines and many things.\nFor, digging a pit,\nmy cruellest enemies\nhave now fallen into it\nby the hand of the greatest judge.",
+     "note": "'Your gift': Bohemia addresses God. The booty of Domažlice is a gift; the ordinance had laid down how such gifts were to be shared (Ordinance [7]). The edition's note cites Psalm 5 and Proverbs 26 for the pit."
+    },
+    {
+     "n": 3,
+     "titel": "The legate's cross and keys",
+     "pg": "547",
+     "orig": "Legatus summi presulis,\ncrux, claves in labaris,\ncrux afixa omnibus,\nmagnis necnon minoribus,\nlicet illis tunc aderant,\nast nichil illis proderant:\nrapta cruce cum clavibus,\nbullis, thesauris omnibus\nnudum remittunt nuncium\nad primum patrem presulum.",
+     "en": "The legate of the highest prelate,\nthe cross, the keys on the banners,\nthe cross fixed upon all,\non great and small,\nthough these were with them then,\nwere of no use to them at all:\nthe cross seized with the keys,\nthe bulls and all the treasure,\nthey send the messenger back naked\nto the first father of prelates.",
+     "note": "The crusaders wore the cross; the papal banner bore the keys of Peter. The legate is Cardinal Julian Cesarini, whom the poem now makes speak."
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "titel": "The cardinal and the pope",
+   "zk": "Domažlice Rome",
+   "blurb": "Cardinal Cesarini tells the pope how he burned Bohemia for a month and fled before 'a small, unarmed, worthless' army; a Hussite blessed the crowd in his red cope, his own men stole the war chest. He advises granting three of the Four Articles; the pope agrees, but 'of the fourth, let them be silent'.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Cesarini reports to the pope",
+     "pg": "547",
+     "orig": "Ast quid dicat Julianus,\ncardinalis iam Romanus,\nregressus hoc de prelio,\nilli pape Eugenio,\nqui relinquens heremum\nassumpsit decus presulum\nmallens Marte officio\nfungi in dei populo,\nquam Marie silencio\nplus complacere domino?\nHic flens dicit: Pater sancte,\nnon sunt vise res nunc tante\nneque cernentur amodo,\nut reor, in hoc seculo,\nres stupende atque dure\ncoram vobis fors secure,\nquas sensi in Bohemica\nilla gente funestica.\nCum gregassem gentes multas\nvi et armis bene fultas\nex partibus Almanie\nUngarie, Ytalie,\nde terrisque conterminis,\ncristianismi populis,\nquarum vigor orbem terre\nrepugnantem posset ferre,\nvirorum multitudinem,\npugnancium fortitudinem:\ntunc, que metas custodivit,\ngens Bohema, ut pervidit\ntam grandem multitudinem,\nreliquit terre limitem.\nNos ingressi per potentem\nmanum nullum resistentem\nin hac terra comperimus,\nferro, igne vastavimus\nfere per mensis spacium\nexercentes dominium.\nTandem illi scismatici\ngentis Boemie rustici\ncongesserunt exercitum\npaucum, inermem, frivolum.\nMira tunc res peragitur,\nnec ei par conspicitur\nin tota sacra pagina,\norbis regnorum cronica.",
+     "en": "But what does Julian say,\nnow a Roman cardinal,\nreturning from this battle\nto that Pope Eugene\nwho, leaving the hermitage,\ntook up the dignity of prelates,\npreferring to serve by the office of Mars\namong the people of God\nrather than please the Lord the more\nby Mary's silence?\nWeeping, he says: Holy Father,\nsuch things have not been seen till now\nnor will be seen hereafter,\nI think, in this age:\nastonishing and hard things,\nbefore you, perhaps, untroubled,\nwhich I suffered from that\ndeadly Bohemian people.\nWhen I had gathered many peoples,\nwell furnished with force and arms,\nfrom the lands of Germany,\nof Hungary, of Italy,\nand from the neighbouring lands,\npeoples of Christendom,\nwhose strength could bear\nthe whole world fighting against it,\na multitude of men,\na strength of fighters:\nthen the Bohemian people,\nwhich guarded the frontier, seeing\nso great a multitude,\nleft the border of the land.\nWe went in with a strong hand\nand found no one resisting\nin that land;\nwe laid it waste with iron and fire\nfor nearly the space of a month,\nexercising lordship.\nAt last those schismatic\npeasants of the Bohemian people\ngathered an army,\nsmall, unarmed, worthless.\nThen a wondrous thing was done,\nwhose like is not seen\nin all the sacred page\nor the chronicle of the kingdoms of the world.",
+     "note": "'Marte officio' plays on Martha and Mars: the pope who left the contemplative life of Mary for the active life of Martha now serves Mars. The line 'coram vobis fors secure' is uncertain; the manuscript reads 'for' and the editor 'fors'. Cesarini's month of burning in Bohemia before the battle is the crusade's own violence, told by its leader."
+    },
+    {
+     "n": 2,
+     "titel": "The red cope",
+     "pg": "548",
+     "orig": "Cum nobis appropinquaret,\nper tres leucasque distaret\nille malignus populus,\ntotus iniquus, frivolus,\ntanto horrore quatimur\ntimoreque convincimur;\nexulavit auxilium,\nspes fugit et consilium,\nterra tremente tremimus,\nnil nisi fugam querimus,\nagente hoc dyabolo,\ncerte ipsorum domino.\nNequivimus subsistere,\ncoacti sumus fugere.\nMulta illic reliquimus,\nque nobiscum inveximus:\nbullas, indulta, labarum,\ninsigne decus presulum.\nMeamque cappam rubeam,\nquam ibidem relinqueram,\nunus illorum induens\nbenedixit insaniens\ncrucisque per signaculum\nnostrum ridens officium,\nlatro cruentus, perfidus,\ncui aplausit populus,\net quod reor nepharium\ncorruptivumque iurium\nac clavium ecclesie\nin despectum katholice.",
+     "en": "When that wicked people,\nwholly iniquitous, worthless,\nwas drawing near to us\nand was three leagues away,\nwe were shaken by such horror\nand overcome by fear:\nhelp was banished,\nhope and counsel fled,\nthe earth trembling, we trembled,\nwe sought nothing but flight,\nthe devil doing this,\nsurely their lord.\nWe could not stand,\nwe were forced to flee.\nWe left much there\nthat we had brought with us:\nbulls, indults, the banner,\nthe noble ornament of prelates.\nAnd my red cope,\nwhich I had left there,\none of them put on\nand, raving, gave the blessing,\nand with the sign of the cross,\nmocking our office,\na bloody, faithless robber,\nand the people applauded him;\nwhich I hold a wicked thing,\ncorrupting the rights\nand the keys of the church,\nin contempt of the catholic one.",
+     "note": "The crusade fled at three leagues, without seeing the enemy: Laurence puts the admission in the legate's own mouth. A Hussite in the cardinal's red cope, blessing the crowd, is the scene the poem makes its centre."
+    },
+    {
+     "n": 3,
+     "titel": "Robbed by their own men",
+     "pg": "548",
+     "orig": "Nam nostro de exercitu\nquidam urgente strepitu,\nde quo supra meminimus\net hoc vere comperimus,\ncurrum nostrum rapuerunt,\nquem ad sua deduxerunt,\nonustum auri millibus,\ncaris atque iocalibus,\nque pro Vestra Sanctitate\nmulta cum sagacitate\nAlmanie congessimus,\nfida manu servavimus.\nIn quos tamquam sacrilegos\necclesie notorios\nanathema inveximus,\nsed in nullo profecimus.\nDure cervicis populus,\ncleri infestus emulus,\nsue salutis inmemor\nac adamante durior,\nquod rapit, tenet firmiter,\nlicetque damnabiliter.\nPuto eos nequiores\nnunc Boemis predatores:\nilli nobis resistentes,\nisti nobis assistentes;\nilli quippe inimici,\nisti nostri ac amici:\nilli nostri vastatores,\nisti nostri protectores.",
+     "en": "For some of our own army,\nas the noise pressed upon us,\nof which we spoke above,\nand this we have truly found,\nseized our wagon\nand took it off to their homes,\nladen with thousands in gold,\nwith precious things and jewels,\nwhich for Your Holiness\nwith much shrewdness\nwe had gathered in Germany\nand kept with faithful hand.\nOn them, as notorious\nrobbers of the church,\nwe laid the anathema,\nbut achieved nothing.\nA stiff-necked people,\nhostile rival of the clergy,\nheedless of its salvation\nand harder than adamant,\nholds fast what it seizes,\nthough to its damnation.\nI think them worse\nrobbers now than the Bohemians:\nthose resisted us,\nthese stood by us;\nthose were enemies,\nthese our own and friends;\nthose our ravagers,\nthese our protectors.",
+     "note": "The crusade's war chest, the money collected in Germany for the pope, is carried off by the crusaders themselves. The imperial orders had given each man's plunder to his own lord (Orders 1427 [12]); the poem shows what that meant in a rout."
+    },
+    {
+     "n": 4,
+     "titel": "Three articles, by grace",
+     "pg": "549",
+     "orig": "Meum est nunc consilium,\nut tam perdurum populum\nmulceamus per graciam\nprestantes indulgenciam,\nut tres illi articuli\nscripture consentanei,\nputa de potu calicis,\ncriminibus de publicis,\nnecnon de evangelio\ninterpretando populo:\nut bibant de calice\nomnes plebes katholice,\nut arguant et predicent,\nsed populum non concitent\nadversus hanc ecclesiam,\nsacramque elemosinam\niam datam a fidelibus\nin hiis servent limitibus,\nprout nunc et ante ea\nconservavit ecclesia;\nquibusque volunt, ritibus\nutantur, sed fidelibus\nnon noceant ecclesiis\nsacrisque monasteriis,\ncum cunctis pacem habeant,\nneque vicinos adeant\ncum sua milicia\nhostilique sevicia. —\nCardinales hoc laudarunt,\nepiscopi affirmarunt,\nauditores causidici,\nomnes pape domestici.",
+     "en": "My counsel now is\nthat we soften so hard a people\nby grace,\ngranting indulgence:\nthat those three articles\nwhich agree with Scripture,\nnamely the drinking of the chalice,\nthe public sins,\nand the gospel\nto be interpreted to the people,\n[be granted]: that all the catholic commons\nmay drink from the chalice,\nthat they may reprove and preach,\nbut not stir up the people\nagainst this church;\nand that the holy alms\nalready given by the faithful\nbe kept within these bounds\nas the church has kept them\nnow and before;\nthat they use what rites they will,\nbut do no harm to the faithful,\nto churches and holy monasteries,\nhave peace with all,\nand not go against their neighbours\nwith their soldiery\nand hostile savagery. —\nThe cardinals praised this,\nthe bishops affirmed it,\nthe auditors, the advocates,\nall the pope's household.",
+     "note": "Three of the Four Articles of Prague, the chalice, the punishment of public sins and free preaching, are granted; the fourth, that the clergy hold no worldly dominion, is answered by keeping 'the holy alms already given', the church's property, as it is. In the poem the cardinal proposes in 1431 what the Council of Basel and the Compacts of 1436 would grant. The two last demands, no harm to churches and no raids on the neighbours, are the price."
+    },
+    {
+     "n": 5,
+     "titel": "'Of the fourth, let them be silent'",
+     "pg": "549–550",
+     "orig": "Pater sanctus deliberans,\nrem tacitus considerans\npromet sacro oraculo:\nAdest deus hic populo,\nquod liquet ex prodigiis\nin gente nostra proditis\nsummi regis potencia,\ncui subduntur omnia.\nDurum est bellum gerere,\nilli quoque resistere,\nqui est deus omnipotens,\nin manu cuncta continens.\n[...]\nCongregemus ecclesiam\nsub tipo nunc katholicam,\ntres ut illi articuli,\nquos dixi, indevii\nsuum progressum habeant,\nsed de quarto nunc taceant!\nNam omnis nostra dignitas,\necclesie auctoritas\nmox paulatim deficeret,\ndum opes sic desereret.",
+     "en": "The Holy Father, deliberating,\nweighing the matter in silence,\nbrings forth from his holy oracle:\nGod is with this people,\nas is clear from the wonders\nshown upon our people\nby the power of the highest king,\nto whom all things are subject.\nIt is hard to wage war\nand to resist him\nwho is God almighty,\nholding all things in his hand.\n[...]\nLet us now gather the church\nin the form of the catholic church,\nso that those three articles\nI spoke of may go forward\nwithout straying from the way,\nbut of the fourth let them now be silent!\nFor all our dignity,\nthe church's authority,\nwould soon, little by little, fail\nif it gave up its wealth like this.",
+     "note": "'Let us gather the church': a council. The Council of Basel had opened in July 1431, weeks before Domažlice; the historical Eugene IV tried to dissolve it that December. The poem's pope is Laurence's: he concedes three articles and keeps the fourth out of sight because the church's wealth is its authority. The omitted lines include 'Si sum Cristi vicarius, sim ipsi consentaneus': if I am Christ's vicar, let me be like him."
+    },
+    {
+     "n": 6,
+     "titel": "What the wives will say",
+     "pg": "550",
+     "orig": "Hec amici et fautores,\ndomi relicte uxores\nloquentur bellatoribus\nad sua redeuntibus:\nUbi honor, fides vestra,\nubi fortis viri dextra,\nubi vestrum iuramentum\npape, regi fide tentum?\nEstne ista strenuitas,\nbellantis magnanimitas,\nestne ista fortitudo,\nymo turpis valitudo:\nhoste absente fugere,\ncampum et res relinquere?\nMori foret honestius\nin bello et robustius,\nquam et aspectum fugere\ngentis ignave, misere,\ndespecte nunc ab omnibus\nCristi veris fidelibus.\nUbi sunt et tentoria,\ncurrus, arma, stipendia,\nbombarde, vestes, machine,\ngrandesque victus copie?\nRelicta sunt hec rusticis\nperfidis ac Boemicis\nin decus et presidium,\nnobis damnum, obprobrium.",
+     "en": "This the friends and patrons,\nthe wives left at home,\nwill say to the warriors\ncoming back to their homes:\nWhere is your honour, your faith,\nwhere the strong man's right hand,\nwhere the oath you swore\nand kept to pope and king?\nIs this valour,\na fighter's greatness of soul,\nis this fortitude,\nor rather a shameful sickness:\nto flee with the enemy absent,\nto leave the field and your goods?\nIt would be more honourable\nand braver to die in war\nthan to flee even the sight\nof a cowardly, wretched people,\nnow despised by all\nthe true faithful of Christ.\nWhere are the tents,\nwagons, arms, pay,\nguns, clothes, engines,\nthe great stores of food?\nThey are left to the faithless\nBohemian peasants\nfor their glory and their defence,\nto us loss and shame.",
+     "note": "Still the pope's speech: he foresees the welcome at home. The list of what was left behind repeats Bohemia's own list (Domažlice Flight [1]), now as loss."
+    }
+   ]
+  }
+ ]
+}

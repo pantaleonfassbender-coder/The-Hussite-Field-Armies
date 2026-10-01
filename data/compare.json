@@ -217,6 +217,43 @@
      ]
     }
    ]
+  },
+  {
+   "id": "spoil",
+   "titel": "What the crusade left behind",
+   "frage": "Domažlice, 14 August 1431.",
+   "note": "Bohemia counts the wagons, guns, money and banners the crusaders left as God's gift to her men. The cardinal counts the same things as loss, and adds what his own soldiers carried off: the war chest collected in Germany for the pope. The ordinance had made all booty common and its theft a crime against God; the imperial order had given each man's plunder to his lord.",
+   "voices": [
+    {
+     "text": "domazlice",
+     "sec": "flight",
+     "n": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "domazlice",
+     "sec": "rome",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      7
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "frankfurt",
+     "n": [
+      12
+     ]
+    }
+   ]
   }
  ]
 }
