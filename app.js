@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>What did the enemy learn?</h3>
       <p>The war orders of the Empire from 1426 on forbid dice and common women in the crusading camp and demand obedience to the captains, in words close to Žižka's. They copied the rules; they could not copy the communities that kept them.</p></div>
     <div class="panel"><h3>Can the story be played?</h3>
-      <p>A companion game, <em>Řádné poslušenství</em>, is in preparation: you lead a field army from Žižka's blinding in 1421 to Lipany, deciding which articles of the ordinance to enforce, and at what cost to the brotherhoods, the towns and the lords. Its cards will cite the passages carried here.</p></div>
+      <p>A companion game, <a href="https://radne-poslusenstvi.netlify.app/"><em>Řádné poslušenství</em></a>, is in preparation: you lead a field army from Žižka's blinding in 1421 to Lipany, deciding which articles of the ordinance to enforce, and at what cost to the brotherhoods, the towns and the lords. Its cards will cite the passages carried here.</p></div>
   </div>`;
 }
 
