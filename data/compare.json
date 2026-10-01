@@ -307,6 +307,59 @@
      ]
     }
    ]
+  },
+  {
+   "id": "pay",
+   "titel": "Who pays for the war?",
+   "frage": "Indulgence, own cost and common booty.",
+   "note": "The pope pays the crusade in grace: full remission for those who fight at their own cost or pay a fighter, sixty days for the poor who can only fast and pray, and a share by the size of the gift. The imperial diet makes every man march at his own cost and pay for his food. The brotherhood pays itself from what it takes, pooled and shared by elders of every estate.",
+   "voices": [
+    {
+     "text": "bull",
+     "sec": "bull",
+     "n": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "frankfurt",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "id": "burning",
+   "titel": "Burning churches",
+   "frage": "The same crime, charged and absolved.",
+   "note": "The bull's charge against the Hussites is that they burn churches, monasteries and images and rage against priests. Laurence of Březová records the Taborites doing so, and Žižka burning thirty-seven priests and monks at Beroun. The same bull empowers the legate's confessors to absolve crusaders who have laid hands on clergy or been arsonists and committers of sacrilege.",
+   "voices": [
+    {
+     "text": "bull",
+     "sec": "bull",
+     "n": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "brezova",
+     "sec": "towns",
+     "n": [
+      4
+     ]
+    }
+   ]
   }
  ]
 }

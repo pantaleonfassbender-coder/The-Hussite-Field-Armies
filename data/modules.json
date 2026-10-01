@@ -17,6 +17,14 @@
    "warum": "The Hussite university master's chronicle from Vítkov to April 1421, in excerpts: Tábor's common chest and the peasants' rents, Vyšehrad and the peasants' flails, the Picards burned at Klokoty, Chomutov and Beroun. Latin from Fontes rerum Bohemicarum V (1893), read against the page images, with a working translation."
   },
   {
+   "id": "bull",
+   "datei": "bull",
+   "side": "church",
+   "zk": "Bull",
+   "kurz": "The crusade bull of 1421",
+   "warum": "Martin V sends Cardinal Branda to preach the crusade against the Hussites: the charge of burning churches, the call to every estate, indulgences graded by person, purse and prayer, and absolution for crusaders even for arson and sacrilege. Latin from Palacký (1873), read against the page images, with a working translation."
+  },
+  {
    "id": "orders",
    "datei": "orders",
    "side": "crusade",
@@ -42,13 +50,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "bull",
-   "side": "church",
-   "kurz": "The crusade bull of 1421",
-   "warum": "Martin V renews the crusade against the Bohemians and sends Cardinal Branda to preach it.",
-   "quelle": "F. Palacký, Urkundliche Beiträge zur Geschichte des Hussitenkrieges I (Prague 1873), about pp. 70–75 (Latin)."
-  },
   {
    "id": "manifestos",
    "side": "brotherhoods",
