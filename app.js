@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>What did the enemy learn?</h3>
       <p>The war orders of the Empire from 1426 on forbid dice and common women in the crusading camp and demand obedience to the captains, in words close to Žižka's (<a href="#/text/orders/nuremberg/3">Orders 1426 [3]</a>); by 1428 the Empire was building its own war wagons (<a href="#/text/orders/wagons/1">Orders Wagons [1]</a>). They copied the rules, but not the sharing of the booty (<a href="#/compare/booty">Compare: who gets the booty?</a>).</p></div>
     <div class="panel"><h3>Can the story be played?</h3>
-      <p>A companion game, <a href="https://radne-poslusenstvi.netlify.app/"><em>Řádné poslušenství</em></a>, is in preparation: you lead a field army from Žižka's blinding in 1421 to Lipany, deciding which articles of the ordinance to enforce, and at what cost to the brotherhoods, the towns and the lords. Its cards will cite the passages carried here.</p></div>
+      <p>A companion game, <a href="https://radne-poslusenstvi.netlify.app/"><em>Řádné poslušenství</em></a>, is playable as a prototype: you lead a field army from Žižka's blinding in 1421 to Lipany, deciding which articles of the ordinance to enforce, and at what cost to the brotherhoods, the towns and the lords. Its cards cite the passages carried here.</p></div>
   </div>`;
 }
 
