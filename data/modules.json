@@ -65,14 +65,49 @@
    "warum": "The Four Articles answered: the chalice granted as a faculty, public sins left to lawful courts, preaching to approved priests, and the church's right to own towns and castles affirmed. Latin from Archiv český III (1844), read against the page images, with a working translation."
   }
  ],
- "planned": [
+ "planned": [],
+ "missing": [
   {
    "id": "manifestos",
    "side": "brotherhoods",
    "kurz": "Hussite manifestos and Žižka's letters",
-   "warum": "The brotherhoods' own voice outside the field: calls to arms, letters to the towns, justifications of the war.",
-   "quelle": "Archiv český III (Prague 1844), pp. 205–268 (Czech)."
+   "warum": "Not carried: the brotherhoods' voice is carried by the ordinance itself; the manifestos of 1419–1429 in Archiv český III survive in a scan whose text would need retyping line by line, for little gain to the questions asked here.",
+   "quelle": "Archiv český III (Prague 1844), pp. 205–268."
+  },
+  {
+   "id": "articles",
+   "side": "prague",
+   "kurz": "The Four Articles of Prague (1420)",
+   "warum": "Not carried here: they belong to the beginning of the revolution and to the sister apparatus, The Hussite Beginning. The Compacts quote each article in the form presented at Basel (Compacts [3], [5]–[7]).",
+   "quelle": "Laurence of Březová's chronicle, July 1420, in Fontes rerum Bohemicarum V (1893)."
+  },
+  {
+   "id": "song",
+   "side": "brotherhoods",
+   "kurz": "'Ktož jsú boží bojovníci', the warriors' hymn",
+   "warum": "Not carried: no public-domain printing of the Czech text could be checked against a page; it survives in the Jistebnice hymnal, found in 1872. The ordinance's closing speaks of the 'warriors of God' (Ordinance Closing [1]).",
+   "quelle": "Jistebnice hymnal (Prague, National Museum)."
+  },
+  {
+   "id": "jihlava",
+   "side": "church",
+   "kurz": "The Compacts in their final form (Jihlava, 1436)",
+   "warum": "Not carried: the Prague text of 1433 is carried, with its answers to all four articles; the revisions of Brno (1435) and the proclamation of Jihlava add Sigismund's guarantees, not a new position.",
+   "quelle": "Archiv český III (1844), section VI (Acts of the diets, 1432–1439)."
+  },
+  {
+   "id": "aeneas",
+   "side": "reception",
+   "kurz": "Aeneas Silvius Piccolomini, Historia Bohemica (1458)",
+   "warum": "Not carried: a later humanist history, written after the war, whose account of Žižka and Lipany depends on the sources carried here; the only public-domain scan, of 1592, could not be read reliably.",
+   "quelle": "Historia Bohemica (Frankfurt 1592)."
+  },
+  {
+   "id": "windecke",
+   "side": "crusade",
+   "kurz": "Eberhard Windecke, Book of Emperor Sigismund",
+   "warum": "Not carried: the imperial wagon order of 1429 is carried from Toman, who took his variants from Windecke; an illumination from a Windecke manuscript is among the plates.",
+   "quelle": "W. Altmann (ed.), Eberhart Windeckes Denkwürdigkeiten (Berlin 1893)."
   }
- ],
- "missing": []
+ ]
 }

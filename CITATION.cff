@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "The Hussite Field Armies: A Documentary Apparatus, 1420–1434"
+message: "If you use this apparatus, please cite it as below — and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/The-Hussite-Field-Armies"
+url: "https://the-hussite-field-armies.netlify.app/"
+abstract: >-
+  A documentary apparatus for the Hussite field armies, 1420-1434, built
+  from public-domain editions with the original beside an English
+  translation, every excerpt read against the page images: Jan Zizka's
+  military ordinance of 1423 (Toman 1898, Lutzow 1914); the Empire's war
+  and wagon orders of 1426-1429 (Toman 1898); Laurence of Brezova's Prague
+  chronicle for 1420-1421, the Latin song on the victory at Domazlice and
+  Bartosek of Drahonice on Malesov and Lipany (Fontes rerum Bohemicarum V,
+  1893); Martin V's crusade bull of 1421 (Palacky 1873); the Prague Compacts
+  with the Council of Basel, 1433 (Archiv cesky III, 1844); and Andreas of
+  Regensburg on the raids and Hiltersried (Leidinger 1903). With a
+  timeline, a Compare page on seventeen questions, plates, and a list of
+  what is not carried and why. Companion game: Radne poslusenstvi.
+keywords:
+  - Hussite Wars
+  - Jan Zizka
+  - wagon fort
+  - Battle of Lipany
+  - Council of Basel
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: "2026-09-30"

@@ -79,12 +79,12 @@ function card(m) {
 function texts() {
   view.innerHTML = `
     <span class="tag">Texts</span><h1>The corpus</h1>
-    <p class="lede">Each module can be read in full, the original beside the English. Planned modules name their sources and wait their turn; what will not be carried is listed with the reason.</p>
+    <p class="lede">The collection is complete for this stage: eight modules, from the ordinance of 1423 to the Compacts of 1433, from the brotherhoods, Prague, the crusade and the church, each in its own language. What was considered and not carried is listed below with the reason.</p>
     ${D.mods.shipped.length ? `<h2>Carried</h2><div class="grid g2">${D.mods.shipped.map(card).join("")}</div>` : ""}
     ${(D.mods.planned || []).length ? `<h2>Planned</h2><div class="grid g2">${D.mods.planned.map(m => `
       <div class="card planned"><div>${side(m.side)} <span class="fine">planned</span></div>
       <h3>${esc(m.kurz)}</h3><p class="fine">${esc(m.warum)}</p><p class="fine"><b>Source:</b> ${esc(m.quelle)}</p></div>`).join("")}</div>` : ""}
-    ${(D.mods.missing || []).length ? `<h2 id="missing">Not carried</h2><div class="grid g2">${D.mods.missing.map(m => `
+    ${(D.mods.missing || []).length ? `<h2 id="missing">Considered and not carried</h2><div class="grid g2">${D.mods.missing.map(m => `
       <div class="card planned"><div>${side(m.side)} <span class="fine">not carried</span></div>
       <h3>${esc(m.kurz)}</h3><p class="fine">${esc(m.warum)}</p><p class="fine"><b>Source:</b> ${esc(m.quelle)}</p></div>`).join("")}</div>` : ""}`;
 }

@@ -5,7 +5,8 @@
    "d": "14 July 1420",
    "side": "brotherhoods",
    "titel": "Vítkov",
-   "text": "Žižka's men hold the hill above Prague against Sigismund's crusade; the crusade withdraws. (Modern accounts; module planned.)"
+   "text": "Žižka's men hold the hill above Prague against Sigismund's crusade; the crusade withdraws. (Modern accounts; module planned.)",
+   "plate": "jena"
   },
   {
    "d": "September 1420",
@@ -63,7 +64,8 @@
    "d": "January 1422",
    "side": "brotherhoods",
    "titel": "Kutná Hora and Německý Brod",
-   "text": "Surrounded at Kutná Hora, Žižka breaks out with his wagons and routs Sigismund's army at Německý Brod. (Modern accounts; module planned.)"
+   "text": "Surrounded at Kutná Hora, Žižka breaks out with his wagons and routs Sigismund's army at Německý Brod. (Modern accounts; module planned.)",
+   "plate": "map"
   },
   {
    "d": "1423",
@@ -77,7 +79,8 @@
    "titel": "The military ordinance",
    "text": "Žižka, some forty captains and lords and the councils of four towns issue their ordinance: orderly obedience, the booty shared, no person excepted.",
    "cite": "#/text/zizka/preamble/2",
-   "citeLabel": "Ordinance Preamble [2]"
+   "citeLabel": "Ordinance Preamble [2]",
+   "plate": "toman392"
   },
   {
    "d": "7 June 1424",
@@ -99,7 +102,8 @@
    "titel": "Ústí nad Labem",
    "text": "The field armies destroy a Saxon and Meissen army before Ústí. In the same month the electors, meeting at Nuremberg, propose what is to be proclaimed in the crusading army: obedience, peace in the camp, no dice, no common women.",
    "cite": "#/text/orders/nuremberg/3",
-   "citeLabel": "Orders 1426 [3]"
+   "citeLabel": "Orders 1426 [3]",
+   "plate": "kratzau"
   },
   {
    "d": "August 1427",
@@ -115,7 +119,8 @@
    "titel": "The Empire's war wagon",
    "text": "The imperial diet at Nuremberg orders its own war wagons: handguns, crossbows, flails, hooked pikes, and a chain to bind wagon to wagon.",
    "cite": "#/text/orders/wagons/1",
-   "citeLabel": "Orders Wagons [1]"
+   "citeLabel": "Orders Wagons [1]",
+   "plate": "wagenburg"
   },
   {
    "d": "1428–1430",
@@ -131,7 +136,8 @@
    "titel": "Domažlice",
    "text": "The fifth crusade, with Cardinal Cesarini, breaks and flees at the sound of the approaching wagons. In a Latin song of the victory the cardinal advises the pope to grant three of the Four Articles.",
    "cite": "#/text/domazlice/flight/1",
-   "citeLabel": "Domažlice Flight [1]"
+   "citeLabel": "Domažlice Flight [1]",
+   "plate": "song545"
   },
   {
    "d": "1433",
@@ -145,7 +151,8 @@
    "titel": "Hiltersried",
    "text": "A foraging army of 2,000 from the siege of Plzeň is destroyed in the Upper Palatinate by Bavarian knights and peasants; thanksgiving in Regensburg cathedral.",
    "cite": "#/text/andreas/field/5",
-   "citeLabel": "Andreas Field [5]"
+   "citeLabel": "Andreas Field [5]",
+   "plate": "leidinger483"
   },
   {
    "d": "30 November 1433",
@@ -161,7 +168,8 @@
    "titel": "Lipany",
    "text": "The lords' league, Utraquist and Catholic, feigns flight; the field armies leave their wagons to pursue and are destroyed. Both Prokops fall. The foot had broken the ordinance's fifth article.",
    "cite": "#/text/bartosek/lipany/4",
-   "citeLabel": "Bartošek Lipany [4]"
+   "citeLabel": "Bartošek Lipany [4]",
+   "plate": "bartosek614"
   },
   {
    "d": "5 July 1436",

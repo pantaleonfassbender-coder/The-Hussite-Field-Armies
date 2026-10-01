@@ -1,0 +1,24 @@
+{
+  "upload_type": "dataset",
+  "title": "The Hussite Field Armies: A Documentary Apparatus, 1420–1434",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>A documentary apparatus for the Hussite field armies, 1420&ndash;1434: how did an army of peasants and townsmen beat five crusades, and why was it destroyed at Lipany? Its thesis: the ordinance won every battle, and the day it was broken, everything was lost. Jan &#381;i&#382;ka's military ordinance of 1423 bound lords, townsmen and peasants to one discipline; at Lipany in 1434 the foot left their wagons to pursue a feigned flight and the field armies were destroyed by the lords of Bohemia.</p><p>Eight modules from public-domain editions, with the original beside an English translation, every excerpt read against the page images: &#381;i&#382;ka's ordinance in Czech (Toman 1898) with Count L&uuml;tzow's English (1914); the Empire's war orders and wagon orders of 1426&ndash;1429 (Toman 1898); Laurence of B&#345;ezov&aacute;'s Prague chronicle for 1420&ndash;1421, the Latin song on the victory at Doma&#382;lice (1431) and Barto&scaron;ek of Drahonice on Male&scaron;ov and Lipany (all Fontes rerum Bohemicarum V, 1893); Martin V's crusade bull of 1421 (Palack&yacute;, Urkundliche Beitr&auml;ge I, 1873); the Prague Compacts with the Council of Basel, 1433 (Archiv &#269;esk&yacute; III, 1844); and Andreas of Regensburg on the raids into Bavaria and Austria and the battle of Hiltersried (Leidinger 1903). Working translations CC0. With a timeline, a Compare page on seventeen questions, nine plates and a list of what is not carried and why.</p><p>Continues The Hussite Beginning (1409&ndash;1420). Companion game: &#344;&aacute;dn&eacute; poslu&scaron;enstv&iacute; (https://radne-poslusenstvi.netlify.app/).</p><p>Licensing: code MIT; editorial matter CC BY 4.0; editions, working translations and derived data CC0 1.0 &mdash; see LICENSES.md. Live site: https://the-hussite-field-armies.netlify.app/</p>",
+  "license": "MIT",
+  "keywords": [
+    "Hussite Wars",
+    "Jan Žižka",
+    "Prokop the Bald",
+    "wagon fort",
+    "Battle of Lipany",
+    "Council of Basel",
+    "Compacts of Basel",
+    "Bohemia",
+    "crusades",
+    "digital humanities"
+  ]
+}

@@ -1,12 +1,12 @@
 # The Hussite Field Armies
 
-A documentary apparatus for the Hussite field armies, 1420–1434: how did an army of peasants and townsmen beat five crusades, and why was it destroyed at Lipany? Public-domain sources with the original (Czech, Latin, German) beside the English, a timeline linked into the texts, and a list of what is still to come.
+A documentary apparatus for the Hussite field armies, 1420–1434: how did an army of peasants and townsmen beat five crusades, and why was it destroyed at Lipany? Public-domain sources with the original (Czech, Latin, German) beside the English, a timeline linked into the texts, a Compare page on seventeen questions, plates, and a list of what was considered and not carried.
 
 Its thesis, to be tested against the texts: the ordinance won every battle, and the day it was broken, everything was lost. Jan Žižka's military ordinance of 1423 bound lords, townsmen and peasants to the same discipline and the same penalties; at Lipany on 30 May 1434 the foot left their wagons against their captains' order, and the field armies were destroyed by the lords of Bohemia.
 
 It continues [The Hussite Beginning](https://github.com/pantaleonfassbender-coder/The-Hussite-Beginning) (1409–1420), which ends at Vítkov.
 
-Stage 1 (in progress) carries eight modules:
+Stage 1 is closed (September 2026) with eight modules:
 
 - **Žižka's military ordinance (1423)** — Czech from H. Toman, *Husitské válečnictví za doby Žižkovy a Prokopovy* (Prague 1898), pp. 392–394; English by Count Lützow, *The Hussite Wars* (London 1914), Appendix II, pp. 366–371. Both read against the page images.
 - **The Empire's war orders (1426–1429)** — the Nuremberg proposals (1426), thirteen articles of the Frankfurt diet (1427), the Nuremberg wagon order (1428) and five articles of the Silesian wagon order (1429), German as printed by Toman (1898), pp. 395–404, read against the page images, with a working translation.
@@ -17,7 +17,9 @@ Stage 1 (in progress) carries eight modules:
 - **The Prague Compacts with the Council of Basel (1433)** — eight passages of the Latin text of 30 November 1433, *Archiv český* III (1844), pp. 398–403, read against the page images, with a working translation.
 - **Andreas of Regensburg: the raids (1428–1433)** — eleven passages from his annals, ed. G. Leidinger (1903), pp. 467–483, read against the page images, with a working translation.
 
-Planned (see `data/modules.json`): Hussite manifestos and Žižka's letters, Andreas of Regensburg.
+Sources considered and not carried are listed on the Texts page with the reason (`data/modules.json`): the Hussite manifestos, the Four Articles (carried by the sister apparatus), the warriors' hymn, the final Compacts of Jihlava, Aeneas Silvius and Windecke.
+
+Plates: illuminations from the Jena Codex, ÖNB Cod. 3062 and a Windecke manuscript, Ruben's Lipany (1868), four pages of the editions and a schematic map; built by `tools/build-plates.py`.
 
 The companion game *Řádné poslušenství* ("orderly obedience", https://radne-poslusenstvi.netlify.app/) takes its title from the ordinance's preamble.
 
@@ -34,6 +36,7 @@ python tools/build-bartosek.py
 python tools/build-bull.py
 python tools/build-compacts.py
 python tools/build-andreas.py
+python tools/build-plates.py
 ```
 
 ## Running locally

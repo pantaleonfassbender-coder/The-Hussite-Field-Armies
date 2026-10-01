@@ -1,5 +1,69 @@
 {
- "lede": "",
- "credit": "",
- "plates": []
+ "lede": "What the century after the war drew of it, the pages the texts are read from, and where it was fought. Each plate names its source; the captions point to the passages they illustrate.",
+ "credit": "Plates: illuminations from the Jena Codex (c. 1490–1510; Prague, National Museum), from Vienna, Österreichische Nationalbibliothek, Cod. 3062 (15th century) and from a Diebold Lauber workshop manuscript of Eberhard Windecke's Book of Emperor Sigismund (c. 1440), and Christian Ruben's painting of Lipany (1868), from public-domain reproductions via Wikimedia Commons; pages of the editions carried here (Toman 1898, Fontes rerum Bohemicarum V 1893, Leidinger 1903) from the Internet Archive and the FONTES portal of the Czech Academy of Sciences; and a schematic map drawn for this site. All public domain or CC0; resized for this site.",
+ "plates": [
+  {
+   "id": "jena",
+   "titel": "Žižka leads the field army",
+   "side": "brotherhoods",
+   "caption": "Blind Žižka, his eyes bound, rides a white horse with his mace; beside him a woman carries the banner with the chalice, behind them the brethren with halberds, a war hammer and a flail. The scroll reads 'Žiška náš bratr věrný', Žižka our faithful brother: 'bratr Žižka', as the ordinance names him (Ordinance Preamble [1]). Drawn some seventy years after his death, in a Utraquist manuscript that set Christ against Antichrist.",
+   "source": "Jena Codex, Antithesis Christi et Antichristi, c. 1490–1510, attributed to Janíček Zmilelý of Písek; Prague, National Museum; via Wikimedia Commons."
+  },
+  {
+   "id": "wagenburg",
+   "titel": "A wagon fort",
+   "side": "crusade",
+   "caption": "A wagon fort drawn in a German military manuscript of the fifteenth century: wagons chained into a ring, guns between them, the gate closed. The imperial diets ordered their own war wagons from 1428 (Orders Wagons [1], [3]).",
+   "source": "Vienna, Österreichische Nationalbibliothek, Cod. 3062, fol. 148r, 15th century; via Wikimedia Commons."
+  },
+  {
+   "id": "kratzau",
+   "titel": "A wagon fort stormed, as a German chronicle drew it",
+   "side": "crusade",
+   "caption": "The heading reads, in German: 'Here the Hussites lay before Görlitz in great strength, and Hans von Polenz became aware of it with the people of the land, and won their wagon fort from the Hussites and stabbed them all.' A war wagon with gunports, the lion of Bohemia on one banner, the cross on the other. Wikimedia Commons identifies the scene with the fighting at Chrastava (Kratzau) in 1428; the picture shows the victory the heading claims. Compare the Empire's own wagon orders (Orders Wagons [1]–[3]).",
+   "source": "Eberhard Windecke, Das Buch von Kaiser Sigismund, workshop of Diebold Lauber, c. 1440, fol. 140r; sold at Sotheby's 2009; via Wikimedia Commons."
+  },
+  {
+   "id": "ruben",
+   "titel": "Lipany, as the nineteenth century saw it",
+   "side": "reception",
+   "caption": "Women and a boy mourn among the dead while the wagon fort burns behind them. Painted in 1868 by Christian Ruben, born in Trier, who had directed the Prague academy before moving to Vienna, at a time when Czech national memory made Lipany the end of a heroic age. The chronicler of 1434 counts the dead and dates the day by the stars (Bartošek Lipany [1], [6]).",
+   "source": "Christian Ruben, Die Schlacht bei Lipan 1434, oil on canvas, 1868; Vienna, Belvedere; via Wikimedia Commons."
+  },
+  {
+   "id": "toman392",
+   "titel": "The ordinance in print",
+   "side": "brotherhoods",
+   "caption": "Hugo Toman's edition of Žižka's military ordinance: book V, 'War and wagon orders', no. I, with the preamble's list of names and the first article (Ordinance Preamble [1], Ordinance [1]).",
+   "source": "H. Toman, Husitské válečnictví za doby Žižkovy a Prokopovy (Prague 1898), p. 392; Internet Archive."
+  },
+  {
+   "id": "song545",
+   "titel": "The Domažlice song",
+   "side": "prague",
+   "caption": "The surviving opening of the Latin song on the victory at Domažlice, in two columns of verse; the edition's dots mark the lost beginning, and the footnote gives four lines from an older printing (Domažlice Flight [1]).",
+   "source": "Fontes rerum Bohemicarum V (Prague 1893), p. 545; FONTES portal, Czech Academy of Sciences."
+  },
+  {
+   "id": "bartosek614",
+   "titel": "Bartošek on Lipany",
+   "side": "prague",
+   "caption": "The page of Bartošek of Drahonice's chronicle that lists the two armies at Lipany and begins the feigned flight; the editor's notes record the missing village name and the missing number of wagons (Bartošek Lipany [2]–[4]).",
+   "source": "Fontes rerum Bohemicarum V (Prague 1893), p. 614; FONTES portal, Czech Academy of Sciences."
+  },
+  {
+   "id": "leidinger483",
+   "titel": "Hiltersried in Andreas of Regensburg",
+   "side": "crusade",
+   "caption": "The end of Andreas's account of Hiltersried: fourteen hundred heretics dead, about ten catholics, thanksgiving in Regensburg cathedral, and the gap he left for the Basel legate's name (Andreas Field [5], [6]).",
+   "source": "Andreas von Regensburg, Sämtliche Werke, ed. G. Leidinger (Munich 1903), p. 483; Internet Archive."
+  },
+  {
+   "id": "map",
+   "titel": "Where the texts take place",
+   "side": "reception",
+   "caption": "The places named in the modules, from Vítkov and Vyšehrad in 1420 to Lipany in 1434 and Jihlava in 1436, with the raids into Bavaria. Schematic: positions from modern coordinates, without borders or rivers.",
+   "source": "Drawn for this site (CC0)."
+  }
+ ]
 }
