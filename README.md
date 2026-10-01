@@ -23,7 +23,7 @@ Sources considered and not carried are listed on the Texts page with the reason 
 
 Plates: illuminations from the Jena Codex, ÖNB Cod. 3062 and a Windecke manuscript, Ruben's Lipany (1868), four pages of the editions and a schematic map; built by `tools/build-plates.py`.
 
-The companion game *Řádné poslušenství* ("orderly obedience", https://radne-poslusenstvi.netlify.app/) takes its title from the ordinance's preamble.
+The companion game *Řádné poslušenství* ("orderly obedience", https://radne-poslusenstvi.netlify.app/; on itch.io: https://leofassb.itch.io/radne-poslusenstvi) takes its title from the ordinance's preamble.
 
 Live: https://the-hussite-field-armies.netlify.app/
 
