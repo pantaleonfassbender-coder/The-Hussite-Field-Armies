@@ -1,4 +1,141 @@
 {
  "lede": "The same order, written by the brotherhoods and copied by their enemies. Each page sets the passages next to each other, in English; every passage links to its place in the texts, with the original beside it.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "obedience",
+   "titel": "Obedience, no one excepted",
+   "frage": "The first demand of both orders.",
+   "note": "Žižka's brotherhood asks for 'orderly obedience' because disobedience has cost it men and goods. Three years later the electors at Nuremberg ask for obedience to the captains, and the Frankfurt diet for obedience 'without any contradiction', 'no one excepted', in the ordinance's own phrase. What the crusade must add is the clause that no lord shall shield his own man.",
+   "voices": [
+    {
+     "text": "zizka",
+     "sec": "preamble",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "nuremberg",
+     "n": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "frankfurt",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "banner",
+   "titel": "Under the banner",
+   "frage": "The march, the camp and the fire.",
+   "note": "The ordinance keeps every troop under its banner and reserves burning to those appointed to it. The Frankfurt diet forbids foraging, burning and breaking camp 'unless the banner sent for it is with them', and adds the order to run or to stand. The rule the field armies broke at Lipany is the rule the crusade copied from them.",
+   "voices": [
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      3,
+      5
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "frankfurt",
+     "n": [
+      8,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": "booty",
+   "titel": "Who gets the booty?",
+   "frage": "Spoil, food and prisoners.",
+   "note": "Here the orders part. The ordinance has all booty brought to one place and shared among rich and poor by elders chosen from every estate, peasants included; whoever keeps anything dies like Achan. The crusade shares food in equal parts, leaves captured places to the captains, and gives each prisoner, with his ransom, to the lord who paid for the man who took him.",
+   "voices": [
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      7
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "frankfurt",
+     "n": [
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "id": "camp",
+   "titel": "Dice, women and curses",
+   "frage": "Who may not be in the camp.",
+   "note": "Both orders clear the camp of dice-players and harlots and punish those who curse. The ordinance threatens banishment or death 'according to God's law'; the electors and the diet name the pillory, the whip and the hand.",
+   "voices": [
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      11
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "nuremberg",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "frankfurt",
+     "n": [
+      4,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "leaving",
+   "titel": "Leaving the army",
+   "frage": "Desertion, the token and the wagon.",
+   "note": "No one leaves the field army without the elders' leave and a sure token; whoever does is a 'faithless thief' of God's cause. The Frankfurt diet denies safe conduct to any lord who rides home without the captains' token; the Silesian wagon order binds its eighteen men to their wagon unless the captain commands otherwise.",
+   "voices": [
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      10
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "frankfurt",
+     "n": [
+      13
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "wagons",
+     "n": [
+      2
+     ]
+    }
+   ]
+  }
+ ]
 }

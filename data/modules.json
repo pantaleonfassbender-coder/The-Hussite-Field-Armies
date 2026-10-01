@@ -7,16 +7,17 @@
    "zk": "Ordinance",
    "kurz": "Žižka's military ordinance (1423)",
    "warum": "The law of Žižka's brotherhood for its armies, September 1423: the preamble with some forty names, the twelve articles, and the closing. Czech as printed by Toman (1898), English by Lützow (1914), both read against the page images."
+  },
+  {
+   "id": "orders",
+   "datei": "orders",
+   "side": "crusade",
+   "zk": "Orders",
+   "kurz": "The Empire's war orders (1426–1429)",
+   "warum": "The enemy's answer to the ordinance: the electors at Nuremberg (1426), the imperial diet at Frankfurt (1427), the wagon orders of Nuremberg (1428) and Silesia (1429). Obedience, no dice, no common women, the banner, and the Empire's own war wagons. German as printed by Toman (1898), with a working translation."
   }
  ],
  "planned": [
-  {
-   "id": "orders",
-   "side": "crusade",
-   "kurz": "The Empire's war orders (1426–1431)",
-   "warum": "The crusading plans of the electors and the imperial diets, which forbid dice and common women in the camp and prescribe wagons: the enemy copying the ordinance.",
-   "quelle": "Toman, Husitské válečnictví (1898), book V, nos. II ff., pp. 394 ff. (German)."
-  },
   {
    "id": "brezova",
    "side": "prague",

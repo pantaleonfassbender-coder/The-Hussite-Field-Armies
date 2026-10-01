@@ -61,13 +61,25 @@
    "d": "16 June 1426",
    "side": "crusade",
    "titel": "Ústí nad Labem",
-   "text": "The field armies destroy a Saxon and Meissen army before Ústí. In the same month the electors, meeting at Nuremberg, draw up war orders against the Hussites. (Modern accounts; module planned.)"
+   "text": "The field armies destroy a Saxon and Meissen army before Ústí. In the same month the electors, meeting at Nuremberg, propose what is to be proclaimed in the crusading army: obedience, peace in the camp, no dice, no common women.",
+   "cite": "#/text/orders/nuremberg/3",
+   "citeLabel": "Orders 1426 [3]"
   },
   {
    "d": "August 1427",
    "side": "crusade",
    "titel": "Tachov",
-   "text": "The third crusade flees from Tachov before battle is joined. Prokop the Bald now leads the Taborite field army. (Modern accounts; module planned.)"
+   "text": "The third crusade, raised by the Frankfurt diet with its forty-eight articles of discipline, flees from Tachov before battle is joined. Prokop the Bald now leads the Taborite field army.",
+   "cite": "#/text/orders/frankfurt/10",
+   "citeLabel": "Orders 1427 [10]"
+  },
+  {
+   "d": "23 April 1428",
+   "side": "crusade",
+   "titel": "The Empire's war wagon",
+   "text": "The imperial diet at Nuremberg orders its own war wagons: handguns, crossbows, flails, hooked pikes, and a chain to bind wagon to wagon.",
+   "cite": "#/text/orders/wagons/1",
+   "citeLabel": "Orders Wagons [1]"
   },
   {
    "d": "1428–1430",
