@@ -47,6 +47,14 @@
    "zk": "Bartošek",
    "kurz": "Bartošek of Drahonice: Malešov and Lipany (1424, 1434)",
    "warum": "A royalist squire's chronicle: Žižka beats Prague at Malešov, and at Lipany the lords feign flight, the brethren leave their wagons shouting 'they flee!', and the field armies are destroyed. Latin from Fontes rerum Bohemicarum V (1893), read from the page images, with a working translation."
+  },
+  {
+   "id": "compacts",
+   "datei": "compacts",
+   "side": "church",
+   "zk": "Compacts",
+   "kurz": "The Prague Compacts with the Council of Basel (1433)",
+   "warum": "The Four Articles answered: the chalice granted as a faculty, public sins left to lawful courts, preaching to approved priests, and the church's right to own towns and castles affirmed. Latin from Archiv český III (1844), read against the page images, with a working translation."
   }
  ],
  "planned": [
@@ -63,13 +71,6 @@
    "kurz": "Andreas of Regensburg, Chronicle of the Hussites",
    "warum": "The war seen from Bavaria, by a canon who collected the documents of the crusades.",
    "quelle": "G. Leidinger (ed.), Andreas von Regensburg, Sämtliche Werke (Munich 1903), about pp. 343–500 (Latin and German)."
-  },
-  {
-   "id": "compacts",
-   "side": "church",
-   "kurz": "The Compacts of Basel (1436)",
-   "warum": "The peace: the chalice granted to the Bohemians who wished it, on conditions, proclaimed at Jihlava on 5 July 1436.",
-   "quelle": "Archiv český III (1844), about pp. 397–449 (Latin and Czech)."
   }
  ],
  "missing": []

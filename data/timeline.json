@@ -144,6 +144,14 @@
    "text": "A Taborite foraging army is destroyed by the forces of the Upper Palatinate: a rare defeat in the field. (Modern accounts; module planned.)"
   },
   {
+   "d": "30 November 1433",
+   "side": "church",
+   "titel": "The Prague Compacts",
+   "text": "The Basel legates and the Bohemian diet agree on the Four Articles: the chalice granted, the other three bound to courts, bishops and the church's property.",
+   "cite": "#/text/compacts/compacts/3",
+   "citeLabel": "Compacts [3]"
+  },
+  {
    "d": "30 May 1434",
    "side": "prague",
    "titel": "Lipany",
@@ -155,7 +163,7 @@
    "d": "5 July 1436",
    "side": "church",
    "titel": "The Compacts at Jihlava",
-   "text": "The Compacts of Basel are proclaimed; Sigismund is received as king of Bohemia. (Modern accounts; module planned.)"
+   "text": "The Compacts, revised at Brno, are proclaimed at Jihlava; Sigismund is received as king of Bohemia. (Modern accounts; the Prague text of 1433 is carried.)"
   }
  ]
 }

@@ -360,6 +360,58 @@
      ]
     }
    ]
+  },
+  {
+   "id": "punish",
+   "titel": "Who may punish?",
+   "frage": "The article on public sins, in the field and at Basel.",
+   "note": "The brotherhood's ordinance gives the power to punish to 'brother Žižka and the communities': banishment, flogging, beheading, hanging, burning, drowning, by God's law and with no person excepted. The Compacts accept the article that public sins must be punished, and take the punishing away from everyone without a lawful court.",
+   "voices": [
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      11,
+      12
+     ]
+    },
+    {
+     "text": "compacts",
+     "sec": "compacts",
+     "n": [
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fourth",
+   "titel": "The fourth article",
+   "frage": "The church's property: silence, then affirmation.",
+   "note": "In the Domažlice song the pope grants three articles and orders silence on the fourth, because the church's authority rests on its wealth. Two years later the council's legates do not keep silent: they declare that the church may own houses, villages, towns, castles and cities, and that its goods must not be held by others. The bull of 1421 had already put the crusaders' goods under St Peter's protection.",
+   "voices": [
+    {
+     "text": "domazlice",
+     "sec": "rome",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "compacts",
+     "sec": "compacts",
+     "n": [
+      7
+     ]
+    },
+    {
+     "text": "bull",
+     "sec": "bull",
+     "n": [
+      7
+     ]
+    }
+   ]
   }
  ]
 }
