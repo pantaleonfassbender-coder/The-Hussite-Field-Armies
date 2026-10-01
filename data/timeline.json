@@ -8,10 +8,36 @@
    "text": "Žižka's men hold the hill above Prague against Sigismund's crusade; the crusade withdraws. (Modern accounts; module planned.)"
   },
   {
+   "d": "September 1420",
+   "side": "brotherhoods",
+   "titel": "Tábor's common chest",
+   "text": "The Taborites elect Nicholas of Pelhřimov their bishop, to give out the community's money according to each brother's need.",
+   "cite": "#/text/brezova/tabor/2",
+   "citeLabel": "Laurence Tábor [2]"
+  },
+  {
    "d": "1 November 1420",
    "side": "prague",
    "titel": "Vyšehrad",
-   "text": "The Praguers and the Taborites defeat Sigismund's relief army below the royal fortress, which surrenders. (Modern accounts; module planned.)"
+   "text": "The Praguers defeat Sigismund's relief army below the royal fortress, which surrenders. 'I fear the peasants' flails,' a Moravian lord had warned the king.",
+   "cite": "#/text/brezova/vysehrad/2",
+   "citeLabel": "Laurence Vyšehrad [2]"
+  },
+  {
+   "d": "16 March 1421",
+   "side": "brotherhoods",
+   "titel": "Chomutov",
+   "text": "Prague and Tábor storm Chomutov together; the men of the town are killed, and Taborite women burn the town's women in a vineyard hut.",
+   "cite": "#/text/brezova/towns/2",
+   "citeLabel": "Laurence Towns [2]"
+  },
+  {
+   "d": "April 1421",
+   "side": "brotherhoods",
+   "titel": "Klokoty",
+   "text": "Žižka burns fifty Picards, men and women, at Klokoty near Tábor; they go to the fire laughing.",
+   "cite": "#/text/brezova/picards/3",
+   "citeLabel": "Laurence Picards [3]"
   },
   {
    "d": "June 1421",

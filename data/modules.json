@@ -9,6 +9,14 @@
    "warum": "The law of Žižka's brotherhood for its armies, September 1423: the preamble with some forty names, the twelve articles, and the closing. Czech as printed by Toman (1898), English by Lützow (1914), both read against the page images."
   },
   {
+   "id": "brezova",
+   "datei": "brezova",
+   "side": "prague",
+   "zk": "Laurence",
+   "kurz": "Laurence of Březová, the Prague chronicle (1420–1421)",
+   "warum": "The Hussite university master's chronicle from Vítkov to April 1421, in excerpts: Tábor's common chest and the peasants' rents, Vyšehrad and the peasants' flails, the Picards burned at Klokoty, Chomutov and Beroun. Latin from Fontes rerum Bohemicarum V (1893), read against the page images, with a working translation."
+  },
+  {
    "id": "orders",
    "datei": "orders",
    "side": "crusade",
@@ -18,13 +26,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "brezova",
-   "side": "prague",
-   "kurz": "Laurence of Březová, the Prague chronicle (1420–1421)",
-   "warum": "From Vítkov to Žižka's blinding at Rabí: the Four Articles in Latin, Tábor, the Adamites, the diet of Čáslav, from the chronicler of the Hussite university.",
-   "quelle": "Fontes rerum Bohemicarum V (Prague 1893), pp. 327–534 (Latin)."
-  },
   {
    "id": "bull",
    "side": "church",

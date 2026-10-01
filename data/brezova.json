@@ -1,0 +1,181 @@
+{
+ "id": "brezova",
+ "titel": "Laurence of Březová, Hussite chronicle (1420–1421)",
+ "autor": "Laurence of Březová, master of the University of Prague",
+ "jahr": "1420–1421",
+ "sprache": "en",
+ "orig_sprache": "la",
+ "pg_label": "FRB V p.",
+ "quelle": "Vavřince z Březové Kronika husitská, ed. Jaroslav Goll, in Fontes rerum Bohemicarum V (Prague 1893), pp. 327–534; passages from pp. 400, 438–441 and 474–478. Page images: Czech Academy of Sciences, 'Czech medieval sources FONTES' (book 1103); machine text for orientation: AHISTO portal, Masaryk University (book 1103). English: the site's working translation.",
+ "hinweis": "Laurence of Březová (c. 1370–after 1437) was a master of the Prague university and wrote his chronicle in Latin during the events, for the Prague side: for the chalice, against the crusade, and suspicious of Tábor. The edition prints his Latin beside an old Czech translation, which is not carried here. The passages begin after Vítkov, where The Hussite Beginning leaves off, and end in April 1421. Four paragraphs (Tábor [2]–[4]) stand only in one manuscript, P, and are printed in small type by the editor. The Latin is given as Goll printed it, read against the page images; omissions are marked [...], and readings of the other manuscripts are named in the notes where they matter.",
+ "sections": [
+  {
+   "id": "tabor",
+   "titel": "Tábor apart, autumn 1420",
+   "zk": "Laurence Tábor",
+   "blurb": "After Vítkov the Taborites leave Prague, elect a bishop who dispenses the common chest according to each brother's need, burn the Utraquist priests and citizens of Vodňany, and, having preached that no rents are owed, collect the lords' rents themselves.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "The Taborites leave Prague (22 August 1420)",
+     "pg": "400",
+     "orig": "Isto tamen non obstante V die post novorum de parte eorum consulum eleccionem, XXII scilicet die Augusti, Thaborienses a Praga recesserunt non habentes aliam causam recessus, nisi quia magistri eorum ritibus scripturis resistebant.",
+     "en": "This notwithstanding, on the fifth day after the election of the new councillors from their party, that is on 22 August, the Taborites left Prague, having no other cause for leaving except that the masters opposed their rites with the Scriptures.",
+     "note": "Five weeks after Vítkov the alliance of Prague and Tábor broke for the first time. The priests who favoured Tábor had had the town council replaced by men of their party so that the Taborites would stay; they left all the same. Laurence was one of the university masters whose 'Scriptures' the Taborites would not accept."
+    },
+    {
+     "n": 2,
+     "titel": "A bishop for Tábor, and a common purse (September 1420)",
+     "pg": "438",
+     "orig": "Item anno domini MCCCCXX currente de mense (Septembri) Thaboritarum genus in Hradisst existens nolens esse acephalum et sine capite spirituali concorditer elegit Nicolaum de Pelrzim, presbyterum et baccalarium in artibus, in episcopum suum seu in seniorem, ut omnes eorum presbyteri ad eundem habeant respectum, nec aliquis verbum dei ad populum predicet nisi cum ipsius episcopi voluntate, communitatis(que) pecunias secundum cuiuslibet fratris indigenciam, prout sibi visum fuerit, cum ceteris presbyteris fideliter dispenset.",
+     "en": "Item, in the year of the Lord 1420, in the month (of September), the Taborite people at Hradiště, not wishing to be headless and without a spiritual head, elected by common accord Nicholas of Pelhřimov, priest and bachelor of arts, as their bishop or elder, so that all their priests should look to him, and no one should preach the word of God to the people except with the bishop's will; and that he, with the other priests, should faithfully dispense the money of the community according to each brother's need, as seemed good to him.",
+     "note": "The common chest of Tábor, given out 'according to each brother's need'; compare the ordinance's sharing of booty among rich and poor (Ordinance [7]). This paragraph and the next three are printed in small type in the edition because they stand only in one manuscript (P), the so-called chronicle of the Prague university; the month is the editor's supplement after Palacký."
+    },
+    {
+     "n": 3,
+     "titel": "Vodňany: two priests and twenty-eight citizens burned",
+     "pg": "438",
+     "orig": "Item eodem anno Zizka cum Thaboritica gente Wodnanam quorundam de civitate auxilio obtinuit altera vice, que Thaboritarum deordinacionibus consentire nolebat, et captis duobus presbyteris cum XXVIII civibus, non obstante communione utriusque speciei, quam tenebant, omnes inhumaniter sunt combusti.",
+     "en": "Item, in the same year Žižka with the Taborite people took Vodňany a second time, with the help of some men of the town, because it would not consent to the Taborites' disorders; and two priests were captured with twenty-eight citizens, and all of them were inhumanly burned, notwithstanding the communion in both kinds which they held.",
+     "note": "The victims were Utraquists, of the chalice like the Taborites themselves. The chronicler's word for the Taborites' rules is 'deordinaciones', disorders. The editor notes that Laurence had told of Vodňany once before and that Palacký took both passages for the same event. Only in manuscript P."
+    },
+    {
+     "n": 4,
+     "titel": "The peasants' dues (autumn 1420)",
+     "pg": "438",
+     "orig": "Item eodem anno non obstante, quod estivo tempore Thaboritarum sacerdotes publice docuissent, quod per amplius rustici et censite non sunt obligati ad dandos suis dominis census vel alias quascunque exacciones, eo quod in hoc regno reparato cessabit omnis exactor, tamen circa festum Galli ab omnibus rusticis et qui se eis inscripserant, census omnes, quos dominis suis dare deberent, striccius exigebant.",
+     "en": "Item, in the same year, although in the summer the Taborite priests had publicly taught that from now on peasants and tenants were not bound to pay their lords rents or any other exactions, since in this kingdom restored every exactor would cease, yet around the feast of St Gall [16 October] they exacted more strictly from all the peasants, and from those who had enrolled with them, all the rents which these owed to their lords.",
+     "note": "The millennial promise of the summer, no more rents in the restored kingdom, and the autumn's need: Tábor collected the lords' rents itself. Only in manuscript P."
+    }
+   ]
+  },
+  {
+   "id": "vysehrad",
+   "titel": "Vyšehrad, 1 November 1420",
+   "zk": "Laurence Vyšehrad",
+   "blurb": "Sigismund tries to relieve the besieged fortress of Vyšehrad and is beaten below it by the Praguers and their peasants: 'I fear the peasants' flails', the flight and the rally, the flails that take no prisoners, the dead left unburied.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "The king's letter falls into Prague's hands",
+     "pg": "439",
+     "orig": "Deus autem, qui superbis resistit et humilibus dat graciam, tradidit nuncium cum carta in manus Pragensium, qui ex tenore cartule premuniti, totam mentem regis didicerunt. Qua de re capitanei Pragensium vigilanter omnem eorum populum ordinantes disposuerunt, in quo quivis loco cum sibi iunctis mane stare deberet et eumdem locum ab insultu hostium diligencius defensare.",
+     "en": "But God, who resists the proud and gives grace to the humble, delivered the messenger with the letter into the hands of the Praguers, who, forewarned by the contents of the note, learned the king's whole plan. Therefore the captains of the Praguers watchfully set all their people in order and assigned at which place each man with those joined to him was to stand in the morning, and to defend that place diligently against the enemy's assault.",
+     "note": "The night before, Sigismund had sent word to his garrison on Prague Castle and to the besieged Vyšehrad to attack at the fifteenth hour. Every man assigned his place before the battle: the ordinance's article 5 in action two and a half years before it was written (Ordinance [5])."
+    },
+    {
+     "n": 2,
+     "titel": "'I fear the peasants' flails'",
+     "pg": "439",
+     "orig": "Videntesque nobiles de exercitu regis, quod Wyssegradenses iuvare regem non intendunt et quod Pragenses fossatis se optimis munierunt, suadebant regi, ut ad invadendum Pragenses quiesceret, si grave dampnum sui exercitus velit evitare. Quibus ille ait: „Absit, me enim omnino oportet hodie cum istis rusticis bellare.“ Quem dominus Henricus de Plumlow affabiliter alloquens ait: „Sciatis, quod magnum dampnum, domine rex, hodie recipietis et cum confusione recedetis. Ego enim, inquit, tritulas rusticorum valde timeo.“ Cui rex: „Scio, inquit, quod vos Moravi estis timidi et michi non fideles.“ Et ille, dominus scilicet Henricus prefatus, cum ceteris Moravie baronibus statim de equis descendentes dicunt: „Ecce iam sumus parati ire, ubi mandas, et ibi erimus, ubi tu, rex, non eris.“",
+     "en": "And the nobles of the king's army, seeing that the men of Vyšehrad did not intend to help the king, and that the Praguers had fortified themselves with excellent ditches, urged the king to refrain from attacking the Praguers if he wished to avoid grave loss to his army. He said to them: 'God forbid; I must fight with these peasants today, whatever happens.' Lord Henry of Plumlov addressed him courteously: 'Know, lord king, that you will suffer great loss today and withdraw in shame. For I,' he said, 'fear the peasants' flails very much.' The king answered: 'I know that you Moravians are timid and not faithful to me.' And he, the lord Henry, with the other barons of Moravia, at once dismounted and said: 'See, we are ready to go where you command, and we shall be where you, king, will not be.'",
+     "note": "The garrison of Vyšehrad, bound by its surrender treaty, did not sally: the king had missed the agreed hour, which the Latin explains with the Czech word 'zameškal'. Henry of Plumlov was the captain of Moravia. 'Tritulae', flails, are the threshing tools that became the brethren's weapon (compare the imperial wagon order, Orders Wagons [1])."
+    },
+    {
+     "n": 3,
+     "titel": "Krušina turns the flight",
+     "pg": "440",
+     "orig": "Et cum sic ordinati ex utraque parte Pragenses in fossatis viriliter invaderent, qui territi in fugam primo sunt conversi et circa ecclesiam sancti Pangracii spissim cumulati: quod cernens dominus Crussina voce valida clamando dixit: „O boni fratres, revertimini viceversa et sitis hodie fortes milites in bello Christi, quia non nostrum, sed dei agitur bellum; videbitis enim, quia dominus deus omnes nostros et dei inimicos tradet in manus nostras.“ Nondum bene finivit sermonem, alter vociferat: fugiunt inimici, fugiunt! Quo audito omnes cum impetu currunt et inimicos a fossatis propellunt et in fugam convertunt.",
+     "en": "And when, so ordered, they attacked the Praguers manfully from both sides in the ditches, the Praguers were at first terrified and turned to flight, and crowded thickly around the church of St Pancras. Seeing this, lord Krušina cried out in a strong voice: 'O good brothers, turn back again and be strong soldiers today in the war of Christ, for it is not our war but God's that is being fought; you will see that the Lord God will deliver all our enemies and God's into our hands.' He had scarcely finished speaking when another shouted: 'The enemy flee, they flee!' Hearing this, all ran forward with a rush, drove the enemy from the ditches and put them to flight.",
+     "note": "Hynek Krušina of Lichtenburg led the Prague army besieging Vyšehrad; the garrison's surrender treaty is made out to him. The battle turns on a shout; the same impulse that won the day before Vyšehrad lost it at Lipany, when the brethren ran after an enemy who was only feigning flight."
+    },
+    {
+     "n": 4,
+     "titel": "The flails take no prisoners",
+     "pg": "440",
+     "orig": "Quos Pragenses cum suis nobilibus insequentes quosdam in paludibus, quosdam in pisciunculis et plures per vineas et per campos hinc inde fugientes crudelissime ad interitum prosternunt, rustici tritulis, neminem captivantes, quamvis et captivitatem et dei legem usque mortem observare promitterent, nobiles vero armis militaribus fortissime pugnantes, quos poterant, captivarunt vel cum magno eorum periculo de fratrum tritulis eripiebant, ita quod dominus Henricus de Plumlow letaliter vulneratus et captivatus ad cimiterium sancti Pangracii deportatus et ibi confessus, sub utraque specie communicare desiderans, expiravit.",
+     "en": "The Praguers with their nobles pursued them and struck them down most cruelly to their death, some in the marshes, some in the fishponds, and more in the vineyards and fields as they fled this way and that: the peasants with flails, taking no one prisoner, although they promised both to submit to captivity and to keep God's law until death; but the nobles, fighting most bravely with knightly arms, took prisoner whom they could, or snatched them at great risk to themselves from the brothers' flails. So lord Henry of Plumlov, mortally wounded and captured, was carried to the churchyard of St Pancras, and there, having confessed and desiring to receive communion in both kinds, he died.",
+     "note": "Two ways of war in one army: the peasants kill, the Hussite nobles take prisoners for ransom and rescue their peers from the flails. The ordinance later pools every capture and its value (Ordinance [7]); the imperial order gives the prisoner to the lord who paid the captor (Orders 1427 [12]). Henry of Plumlov, who feared the flails, asked to die with the chalice; the edition notes that the words 'desiring to receive communion in both kinds' are missing in manuscript P."
+    },
+    {
+     "n": 5,
+     "titel": "The dead left to the wolves",
+     "pg": "441",
+     "orig": "hii cum pluribus aliis terre Bohemie ac Moravie baronibus et militibus sunt velut porci crudeliter interempti et statim omnibus armis et vestibus usque femoralia denudati. Quis nisi gentili crudelior, qui transeundo per campos et vineas et mortuorum fortissima corpora cerneret, et non condoleret? quis nisi insane mentis Boemus, qui tam elegantes et robustos belli viros ac iuvenes crispos et decentes videre poterat sine gravi cordis lamento? presertim quod plures insepulti per vineas et campos iussu sacerdotum iacere sunt dimissi, ut sint lupis, canibus et avibus celi in cibum et videntibus in terrorem; quos tamen fideles et pii quidam nocturno tempore in fossatis sepelierunt.",
+     "en": "These, with many other barons and knights of the land of Bohemia and of Moravia, were cruelly slaughtered like pigs and at once stripped of all their arms and clothes down to their breeches. Who but one crueller than a heathen could pass through the fields and vineyards and see the strong bodies of the dead and not grieve? What Bohemian, unless of unsound mind, could see such fine and sturdy men of war and curly-haired, comely youths without heavy lament of heart? Above all because many were left lying unburied in the vineyards and fields by order of the priests, to be food for wolves, dogs and the birds of the air and a terror to those who saw them; yet some faithful and pious men buried them by night in the ditches.",
+     "note": "The chronicler was on the Prague side and still laments the enemy's dead; the order to leave them unburied came from the priests. Before this passage he names about fifteen of the fallen lords of Bohemia and Moravia; the list is left out here."
+    },
+    {
+     "n": 6,
+     "titel": "Four hundred against thirty",
+     "pg": "441",
+     "orig": "Fueruntque in numero de interfectis computati circa CCCC viros bene armatos demptis vulneratis, qui in Broda et in via sunt defuncti, ita quod communiter dicebatur circa quingentos de regis exercitu cecidisse, de Pragensi vero exercitu dicebatur vix triginta fore in eodem prelio interemptos. [...] Fuitque eodem die ventus validus et frigidissimus, qui plus armatis militibus quam togatis pedestribus nocebat; apparuit quoque columpna in aere ad modum yridis colorata, quam plurimi aspicientes mirabantur, quid significaret.",
+     "en": "Some four hundred well-armed men were counted among the dead, besides the wounded who died in Brod and on the road, so that it was commonly said that about five hundred of the king's army had fallen; of the Prague army it was said that scarcely thirty were killed in that battle. [...] And on that day there was a strong and very cold wind, which harmed the armoured knights more than the foot in their coats; and a column appeared in the air, coloured like a rainbow, and very many who saw it wondered what it meant.",
+     "note": "'Brod' is Český Brod, where the king withdrew with his wounded. The omitted lines name the Prague citizens knighted after the battle. The wind that troubled the armoured more than the 'togati pedestres', the foot in plain coats, is the chronicler's image of the whole war."
+    }
+   ]
+  },
+  {
+   "id": "picards",
+   "titel": "The Picards, February–April 1421",
+   "zk": "Laurence Picards",
+   "blurb": "Heresy on Mount Tábor: the bishop asks Prague for help, the brotherhood drives out its Picards, and Žižka burns fifty of them at Klokoty.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Four hundred heretics on Mount Tábor (28 February 1421)",
+     "pg": "474",
+     "orig": "Item eodem anno et tempore, ubi supra, ultima die Februarii allata est litera Pragam a Nicolao, electo episcopo Thaboritarum, et Giczin, arcium liberalium magistro, continens flebilia et religioni christiane prius inaudita, qualiter in monte eorum Thabor ex perversa quorundam presbiterorum doctrina et presertim cuiusdam Martini, presbiteri de Moravia, ultra quam quadringenti utriusque sexus heresi picardica, de qua superius facta est mencio, essent infecti, qui pertinaciter tenent, quod in sacramento altaris non sit verum corpus Christi et eius sanguis, sed solum panis, qui est signum solum, cum sumitur, corporis et sanguinis Christi. [...] si quos videbant sacram eukaristie communionem frequentare, illudentes dicebant: adhuc noc dimittitis illum papilionem!",
+     "en": "Item, in the same year and season, on the last day of February, a letter was brought to Prague from Nicholas, elected bishop of the Taborites, and Jičín, master of liberal arts, with lamentable news never before heard in the Christian religion: that on their mount Tábor, through the perverse teaching of certain priests and above all of one Martin, a priest from Moravia, more than four hundred persons of both sexes were infected with the Picard heresy, of which mention was made above, who stubbornly hold that in the sacrament of the altar there is not the true body and blood of Christ but only bread, which is only a sign of Christ's body and blood when it is received. [...] and if they saw anyone frequently receiving the holy eucharist, they mocked them, saying: 'Will you not yet let go of that butterfly!'",
+     "note": "The omitted lines describe the breaking and selling of monstrances and chalices. 'Martin' is Martin Húska, called Loquis. 'Noc' is Goll's print, read 'non'. The bishop of Tábor himself asked the Prague masters for help against the heresy: the brotherhood policed its own doctrine."
+    },
+    {
+     "n": 2,
+     "titel": "Tábor divides; the Adamites",
+     "pg": "475",
+     "orig": "Item propter pretactam heu heresim fratres in Hradisst seu Thabor commanentes in duas partes, picardicam scilicet et Thaboriticam, fuerunt divisi, ita quod Thaboritica fidelior pars ultra ducentos utriusque sexus picardica heresi infectos de monte Thabor repulerunt, qui per silvas et montes divagantes in tantam quidam ex eis devenerunt vesaniam, quod tam viri quam mulieres abiectis vestibus nudi penitus incedebant dicentes, se fore in innocencie statu, et quod propter primorum parentum transgressionem vestes assumpte fuissent. Et ex eadem frenesi opinati sunt, se non peccare, si frater cum sorore carnaliter miscebatur. Et si qua conceperat, de spiritu sancto se dicebat concepisse, et multo plura proh dolor ab eis fiebant, quod non est dignum posteris relinquere exarata.",
+     "en": "Item, because of this heresy, alas, the brothers living at Hradiště or Tábor were divided into two parts, the Picard and the Taborite, so that the more faithful Taborite part drove more than two hundred persons of both sexes infected with the Picard heresy from mount Tábor. Wandering through forests and mountains, some of them came to such madness that men and women alike threw off their clothes and went entirely naked, saying that they were in the state of innocence, and that clothes had been taken on only because of the transgression of our first parents. And from the same frenzy they held that they did not sin if brother lay carnally with sister; and if a woman conceived, she said she had conceived of the Holy Spirit; and much more, alas, was done by them that is not fit to be left in writing to posterity.",
+     "note": "The 'Adamites'. Laurence's account is hostile and at second hand; it is the main source for what later writers repeated. The brotherhood expelled them before Žižka destroyed them."
+    },
+    {
+     "n": 3,
+     "titel": "Klokoty: fifty burned (April 1421)",
+     "pg": "475–476",
+     "orig": "Item post aliquantulum tempus, ante scilicet Georgii, Ziska in Hradisst a Verona veniens et in Klokot villa quinquaginta utriusque sexus de predicta Picardorum secta combussit, de quorum numero duo fuere presbiteri, quorum unus vocabatur Petrus Kaniss. Qui omnes ad exortacionem predicti Zisce cedere a suis erroribus nolebant, sed letanter cum risu ad ignis voraginem accesserunt dicentes, se hodie cum Christo in celis regnaturos. Et post recessum Zisce fratres ibidem existentes XXV de eadem secta picardica combusserunt.",
+     "en": "Item, a little while later, before the feast of St George [23 April], Žižka, coming to Hradiště from Beroun, burned fifty persons of both sexes of the said Picard sect in the village of Klokoty, among them two priests, one of whom was called Peter Kániš. None of them would give up their errors at Žižka's exhortation, but they went joyfully, laughing, into the furnace of the fire, saying that today they would reign with Christ in heaven. And after Žižka had left, the brothers who were there burned twenty-five more of the same Picard sect.",
+     "note": "An act of the brotherhood's own army against its own dissenters, on Žižka's order: the game records it on the violence ledger by name. Manuscript P reads forty for fifty. Peter Kániš was a Taborite priest and one of the Picard leaders."
+    }
+   ]
+  },
+  {
+   "id": "towns",
+   "titel": "Chomutov and Beroun, March–April 1421",
+   "zk": "Laurence Towns",
+   "blurb": "The joint army of Prague and Tábor takes Chomutov and Beroun: the spoil, the killing of the men, the burning of the women by Taborite women, the flailmen at Beroun and the burning of priests who offered to recant.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Chomutov stormed (16 March 1421)",
+     "pg": "476",
+     "orig": "Item anno eodem, scilicet MCCCCXXI, currente, facta cum Plznensibus aliquali concordia, ut supra tactum est, totus exercitus movetur versus Chomutow civitatem, quam XV die Marcii, scilicet sabbato ante Domine ne longe potencialiter circumvallant. Et cum Theutonici per menia murorum exercitum advenientem blasphemarent et eum eo die cum inpetu repellerent, statim in crastino, hoc est dominico die, quo cantatur in ecclesia dei Domine ne longe, exercitus inpetum fecit in civitatem ex omni parte fossata et muros invadendo. Et non obstante, quod incole civitatis liquatam picem ac ferventis aque liquorem funderent, Pragenses tamen ex una et Thaborite parte ex altera una cum castro acquirunt civitatem, quam ingredientes magnum committunt spolium, ita quod simile in diviciis numquam invenerunt,",
+     "en": "Item, in the same year 1421, after some sort of agreement had been made with the men of Plzeň, as was touched on above, the whole army moved towards the town of Chomutov, which they surrounded in force on 15 March, the Saturday before 'Domine ne longe'. And when the Germans reviled the approaching army from the battlements and that day drove it back with force, at once on the morrow, the Sunday on which 'Domine ne longe' is sung in the church of God, the army stormed the town from every side, assailing ditches and walls. And although the inhabitants poured molten pitch and boiling water on them, the Praguers on one side and the Taborites on the other took the town together with the castle, and entering it made great spoil, such that they never found the like in riches;",
+     "note": "Chomutov was a German-speaking town held for the king. Prague and Tábor fought together: the Praguers from one side, the Taborites from the other."
+    },
+    {
+     "n": 2,
+     "titel": "Chomutov: the killing, and the women",
+     "pg": "476–477",
+     "orig": "omnesque civitatis viros gladio et igne interimentes vix XXX in vita salvarunt, ut cadavera mortuorum sepelirent. Fueruntque ab hiis sepulti ultra duo millia et quindecim centena demptis plurimis combustis clientibus, civibus, presbiteris et Judeis. Thaboritarum vero inique mulieres horrendum ibidem scelus commiserunt, mulieres enim et virgines viros suos et parentes deflentes extra civitatem deduxerunt promittentes eis salvas abire, que cum extra civitatem devenirent, eas vestibus spoliant et pecuniis aliisque rebus ablatis in quodam tugurio vinee includentes ignis voragine consumunt, nec pregnantibus parcunt, ut livorem sue iniquitatis augmentent.",
+     "en": "and putting all the men of the town to death by sword and fire, they spared scarcely thirty alive, to bury the bodies of the dead. And more than two thousand and fifteen hundred were buried by them, besides very many squires, citizens, priests and Jews who were burned. But the wicked women of the Taborites committed a horrible crime there: for they led the women and girls, who were weeping for their husbands and parents, out of the town, promising them that they could go away safe; and when they were outside the town, they stripped them of their clothes, took their money and other things, shut them in a hut in a vineyard and consumed them in the furnace of fire, not sparing the pregnant, to increase the spite of their wickedness.",
+     "note": "The number is unclear: 'duo millia et quindecim centena' would be three thousand five hundred; the old Czech translation printed beside it has 'more than two thousand and fifteen'. The burning of the women is told of the Taborite women, not of the Praguers. The game records it by name, as the design decided."
+    },
+    {
+     "n": 3,
+     "titel": "Žižka beats the departing priests (April 1421)",
+     "pg": "477–478",
+     "orig": "Hortatus est igitur fratres suos, ut in Praga non maneant, nec Pragensibus sint coadiutores. Qua de re divisi sunt Thaborite pro tunc in Praga existentes, ita quod quidam cum Ziska capitaneo in Praga permanserunt, alii cum presbiteris corpus Christi gestantibus recesserunt, quos prefatus Ziska insequens presbiteros plurimis affecit plagis",
+     "en": "He [the Taborite priest Antoch] therefore exhorted his brothers not to stay in Prague and not to be helpers of the Praguers. Because of this the Taborites then in Prague were divided, so that some stayed in Prague with Žižka their captain, and others went away with their priests, who carried the body of Christ; and Žižka pursued them and gave the priests many blows,",
+     "note": "Antoch had preached in the Old Town square that the Prague councillors and masters were the two horns of the beast, because they would let priests say mass only in vestments. Žižka sided with Prague against his own preachers; the alliance mattered more to him than the quarrel over vestments."
+    },
+    {
+     "n": 4,
+     "titel": "Beroun: the flailmen, and the fire (1 April 1421)",
+     "pg": "478",
+     "orig": "et eodem die cum Pragensibus equitat Veronam circumvallare, quam prima die Aprilis, que fuit feria III ante Ambrosii, cum inpetu obtinent et Koblich militem cum aliis suis complicibus de turri proiciunt, quos statim tritulatores seve concuciunt; plebanosque cum XXXVII aliis presbiteris et monachis ac tribus magistris collegiatis collegii Karoli et quodam milite et quibusdam Pragensibus civibus, qui de Praga fugerant, Ziska cum sua comitiva comburit non obstante quorumdam clamore et presertim militis dicti Dupowecz, quod vellent penitere et veritati usque mortem adherere.",
+     "en": "and on the same day he rode with the Praguers to besiege Beroun, which they took by storm on 1 April, the Tuesday before St Ambrose; and they threw the knight Koblich with his companions from the tower, and the flailmen at once beat them savagely; and Žižka with his company burned the parish priests together with thirty-seven other priests and monks, three masters of the Charles College, a knight and some citizens of Prague who had fled from Prague, notwithstanding the cries of some of them, and especially of the knight called Dupovec, that they would repent and hold to the truth until death.",
+     "note": "'Tritulatores', flailmen: the chronicler uses the word as the name of a troop. Those burned offered to recant and were burned all the same. The order of the passage in the chronicle puts the departure from Prague on the day of the march to Beroun."
+    }
+   ]
+  }
+ ]
+}

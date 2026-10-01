@@ -6,12 +6,13 @@ Its thesis, to be tested against the texts: the ordinance won every battle, and 
 
 It continues [The Hussite Beginning](https://github.com/pantaleonfassbender-coder/The-Hussite-Beginning) (1409–1420), which ends at Vítkov.
 
-Stage 1 (in progress) carries two modules:
+Stage 1 (in progress) carries three modules:
 
 - **Žižka's military ordinance (1423)** — Czech from H. Toman, *Husitské válečnictví za doby Žižkovy a Prokopovy* (Prague 1898), pp. 392–394; English by Count Lützow, *The Hussite Wars* (London 1914), Appendix II, pp. 366–371. Both read against the page images.
 - **The Empire's war orders (1426–1429)** — the Nuremberg proposals (1426), thirteen articles of the Frankfurt diet (1427), the Nuremberg wagon order (1428) and five articles of the Silesian wagon order (1429), German as printed by Toman (1898), pp. 395–404, read against the page images, with a working translation.
+- **Laurence of Březová, the Prague chronicle (1420–1421)** — seventeen passages from August 1420 to April 1421, Latin from *Fontes rerum Bohemicarum* V (1893), pp. 400–478, read against the page images of the Czech Academy's FONTES portal, with a working translation.
 
-Planned (see `data/modules.json`): Laurence of Březová (1420–1421), the crusade bull of 1421, Hussite manifestos and Žižka's letters, the song of Domažlice (1431), Andreas of Regensburg, Bartošek of Drahonice (Lipany), the Compacts of Basel (1436).
+Planned (see `data/modules.json`): the crusade bull of 1421, Hussite manifestos and Žižka's letters, the song of Domažlice (1431), Andreas of Regensburg, Bartošek of Drahonice (Lipany), the Compacts of Basel (1436).
 
 The companion game *Řádné poslušenství* ("orderly obedience", https://radne-poslusenstvi.netlify.app/) takes its title from the ordinance's preamble.
 
@@ -22,6 +23,7 @@ Live: https://the-hussite-field-armies.netlify.app/
 ```
 python tools/build-zizka.py
 python tools/build-orders.py
+python tools/build-brezova.py
 ```
 
 ## Running locally

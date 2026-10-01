@@ -2,6 +2,35 @@
  "lede": "The same order, written by the brotherhoods and copied by their enemies. Each page sets the passages next to each other, in English; every passage links to its place in the texts, with the original beside it.",
  "pairs": [
   {
+   "id": "prisoners",
+   "titel": "Who takes prisoners?",
+   "frage": "Ransom, booty and the flails.",
+   "note": "Below Vyšehrad the peasants' flails took no prisoners, and the Hussite nobles saved what enemy lords they could, for ransom and for their rank. Three years later the ordinance makes every capture common property, to be shared by elders of every estate. The imperial diet gives each prisoner to the lord who paid for the man who took him. The difference in what a prisoner was worth, and to whom, runs through the whole war.",
+   "voices": [
+    {
+     "text": "brezova",
+     "sec": "vysehrad",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      7
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "frankfurt",
+     "n": [
+      12
+     ]
+    }
+   ]
+  },
+  {
    "id": "obedience",
    "titel": "Obedience, no one excepted",
    "frage": "The first demand of both orders.",
@@ -133,6 +162,58 @@
      "sec": "wagons",
      "n": [
       2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "flails",
+   "titel": "The peasants' flails",
+   "frage": "A threshing tool becomes a weapon.",
+   "note": "A Moravian lord tells Sigismund before Vyšehrad that he fears the peasants' flails. At Beroun the chronicler calls a troop simply 'the flailmen'. Seven years later the imperial diet writes flails into its own wagon order: two flailmen to each war wagon.",
+   "voices": [
+    {
+     "text": "brezova",
+     "sec": "vysehrad",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "brezova",
+     "sec": "towns",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "orders",
+     "sec": "wagons",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chest",
+   "titel": "The common chest",
+   "frage": "What the brethren shared, and what they collected.",
+   "note": "In September 1420 Tábor's bishop is charged with giving out the community's money 'according to each brother's need'; in October Tábor collects from the peasants the rents its priests had said were no longer owed. The ordinance of 1423 shares the booty 'among the rich and the poor as is befitting'. Sharing and exacting stand side by side from the beginning.",
+   "voices": [
+    {
+     "text": "brezova",
+     "sec": "tabor",
+     "n": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      7
      ]
     }
    ]
