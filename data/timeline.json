@@ -75,7 +75,9 @@
    "d": "7 June 1424",
    "side": "brotherhoods",
    "titel": "Malešov",
-   "text": "Žižka defeats the army of Prague and its allied lords: Hussites against Hussites. (Modern accounts; module planned.)"
+   "text": "Žižka defeats the army of Prague and its allied lords: Hussites against Hussites, fourteen hundred dead on both sides, by a royalist chronicler's count.",
+   "cite": "#/text/bartosek/malesov/1",
+   "citeLabel": "Bartošek Malešov [1]"
   },
   {
    "d": "11 October 1424",
@@ -137,9 +139,9 @@
    "d": "30 May 1434",
    "side": "prague",
    "titel": "Lipany",
-   "text": "The lords' league, Utraquist and Catholic, destroys the field armies. Prokop the Bald falls. The foot had left their wagons against the ordinance's order.",
-   "cite": "#/text/zizka/articles/5",
-   "citeLabel": "Ordinance [5]"
+   "text": "The lords' league, Utraquist and Catholic, feigns flight; the field armies leave their wagons to pursue and are destroyed. Both Prokops fall. The foot had broken the ordinance's fifth article.",
+   "cite": "#/text/bartosek/lipany/4",
+   "citeLabel": "Bartošek Lipany [4]"
   },
   {
    "d": "5 July 1436",

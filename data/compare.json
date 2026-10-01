@@ -2,6 +2,36 @@
  "lede": "The same order, written by the brotherhoods and copied by their enemies. Each page sets the passages next to each other, in English; every passage links to its place in the texts, with the original beside it.",
  "pairs": [
   {
+   "id": "fugiunt",
+   "titel": "'They flee, they flee!'",
+   "frage": "Vyšehrad 1420 and Lipany 1434: one shout, two outcomes.",
+   "note": "Below Vyšehrad the Praguers were already fleeing when someone shouted 'fugiunt, fugiunt!', and the rush that followed won the battle. At Lipany the lords pretended to flee; the brethren shouted the same words, left their wagons to pursue, and could not get back into them. Between the two days stands the ordinance's fifth article: no troop shall break away from its order.",
+   "voices": [
+    {
+     "text": "brezova",
+     "sec": "vysehrad",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "zizka",
+     "sec": "articles",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "bartosek",
+     "sec": "lipany",
+     "n": [
+      4,
+      5
+     ]
+    }
+   ]
+  },
+  {
    "id": "prisoners",
    "titel": "Who takes prisoners?",
    "frage": "Ransom, booty and the flails.",
@@ -251,6 +281,29 @@
      "sec": "frankfurt",
      "n": [
       12
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ending",
+   "titel": "How the war could end",
+   "frage": "A concession in a poem, a submission after a battle.",
+   "note": "In the Domažlice song of 1431 the cardinal advises granting three of the Four Articles and the pope agrees, provided the fourth, the church's property, is passed over in silence. Three years later the field armies' captains, beaten at Lipany, bind themselves to whatever the lords and towns decide at Prague. The Compacts of 1436 granted, in substance, what the poem's cardinal had proposed.",
+   "voices": [
+    {
+     "text": "domazlice",
+     "sec": "rome",
+     "n": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "bartosek",
+     "sec": "lipany",
+     "n": [
+      7
      ]
     }
    ]
