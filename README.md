@@ -1,5 +1,7 @@
 # The Hussite Field Armies
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23077073.svg)](https://doi.org/10.5281/zenodo.23077073)
+
 A documentary apparatus for the Hussite field armies, 1420–1434: how did an army of peasants and townsmen beat five crusades, and why was it destroyed at Lipany? Public-domain sources with the original (Czech, Latin, German) beside the English, a timeline linked into the texts, a Compare page on seventeen questions, plates, and a list of what was considered and not carried.
 
 Its thesis, to be tested against the texts: the ordinance won every battle, and the day it was broken, everything was lost. Jan Žižka's military ordinance of 1423 bound lords, townsmen and peasants to the same discipline and the same penalties; at Lipany on 30 May 1434 the foot left their wagons against their captains' order, and the field armies were destroyed by the lords of Bohemia.
@@ -44,3 +46,7 @@ python tools/build-plates.py
 Any static server, e.g. `python -m http.server 8142`.
 
 Licences: see `LICENSES.md`.
+
+## Citation
+
+Fassbender, Pantaleon. *The Hussite Field Armies: A Documentary Apparatus, 1420–1434.* 2026. https://doi.org/10.5281/zenodo.23077073 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23077074). Please also cite the printed source of any passage you quote.

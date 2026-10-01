@@ -29,5 +29,13 @@ keywords:
   - Council of Basel
   - digital humanities
 license: MIT
+doi: 10.5281/zenodo.23077073
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23077073
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23077074
+    description: "Version 1.0.0"
 version: 1.0.0
 date-released: "2026-09-30"
